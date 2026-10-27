@@ -1,0 +1,3330 @@
+fileFormatVersion: 2
+guid: 71f4607397daef8488d517d28ff79746
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2812972538402434120
+    second: sprite_sheet_nahuala_0
+  - first:
+      213: 7162516476521267424
+    second: sprite_sheet_nahuala_1
+  - first:
+      213: 3769003817729939250
+    second: sprite_sheet_nahuala_2
+  - first:
+      213: 3544948811487636055
+    second: sprite_sheet_nahuala_3
+  - first:
+      213: -8070118589791454388
+    second: sprite_sheet_nahuala_4
+  - first:
+      213: -5073897016489770228
+    second: sprite_sheet_nahuala_5
+  - first:
+      213: 8842023285113454572
+    second: sprite_sheet_nahuala_6
+  - first:
+      213: -1691690299880556345
+    second: sprite_sheet_nahuala_7
+  - first:
+      213: -2695888413443452048
+    second: sprite_sheet_nahuala_8
+  - first:
+      213: -7343564193527029327
+    second: sprite_sheet_nahuala_9
+  - first:
+      213: 1591795910912469891
+    second: sprite_sheet_nahuala_10
+  - first:
+      213: -8288176419454956505
+    second: sprite_sheet_nahuala_11
+  - first:
+      213: -2795782555826453857
+    second: sprite_sheet_nahuala_12
+  - first:
+      213: -4742686314019307448
+    second: sprite_sheet_nahuala_13
+  - first:
+      213: -4175930099921879639
+    second: sprite_sheet_nahuala_14
+  - first:
+      213: -6492222013946749729
+    second: sprite_sheet_nahuala_15
+  - first:
+      213: 6637639072595844756
+    second: sprite_sheet_nahuala_16
+  - first:
+      213: -7808890528380501392
+    second: sprite_sheet_nahuala_17
+  - first:
+      213: 7505330453381752578
+    second: sprite_sheet_nahuala_18
+  - first:
+      213: 5239192112854366424
+    second: sprite_sheet_nahuala_19
+  - first:
+      213: -381374543905165582
+    second: sprite_sheet_nahuala_20
+  - first:
+      213: 6515780309306181034
+    second: sprite_sheet_nahuala_21
+  - first:
+      213: -6335690193257156099
+    second: sprite_sheet_nahuala_22
+  - first:
+      213: -5657609909876882773
+    second: sprite_sheet_nahuala_23
+  - first:
+      213: 5882112495133302003
+    second: sprite_sheet_nahuala_24
+  - first:
+      213: -293538000964429389
+    second: sprite_sheet_nahuala_25
+  - first:
+      213: 4345347056066527386
+    second: sprite_sheet_nahuala_26
+  - first:
+      213: -4701644330250371297
+    second: sprite_sheet_nahuala_27
+  - first:
+      213: -6539656582301029929
+    second: sprite_sheet_nahuala_28
+  - first:
+      213: 8155792989502204592
+    second: sprite_sheet_nahuala_29
+  - first:
+      213: 5733832676037101982
+    second: sprite_sheet_nahuala_30
+  - first:
+      213: -6487456937182561156
+    second: sprite_sheet_nahuala_31
+  - first:
+      213: 8259298815224572918
+    second: sprite_sheet_nahuala_32
+  - first:
+      213: -8436137860810579641
+    second: sprite_sheet_nahuala_33
+  - first:
+      213: -4085212373140584510
+    second: sprite_sheet_nahuala_34
+  - first:
+      213: 2827230953189958099
+    second: sprite_sheet_nahuala_35
+  - first:
+      213: -3257568525171814189
+    second: sprite_sheet_nahuala_36
+  - first:
+      213: -7105958048918691514
+    second: sprite_sheet_nahuala_37
+  - first:
+      213: 4506472748850135040
+    second: sprite_sheet_nahuala_38
+  - first:
+      213: -3563029024944429019
+    second: sprite_sheet_nahuala_39
+  - first:
+      213: 3627668337324417191
+    second: sprite_sheet_nahuala_40
+  - first:
+      213: 5063520320676532971
+    second: sprite_sheet_nahuala_41
+  - first:
+      213: 3191659039427290702
+    second: sprite_sheet_nahuala_42
+  - first:
+      213: -313764703801945446
+    second: sprite_sheet_nahuala_43
+  - first:
+      213: -3143585589865671557
+    second: sprite_sheet_nahuala_44
+  - first:
+      213: -5964302663716883469
+    second: sprite_sheet_nahuala_45
+  - first:
+      213: 5457353850319488969
+    second: sprite_sheet_nahuala_46
+  - first:
+      213: 2211733107847329532
+    second: sprite_sheet_nahuala_47
+  - first:
+      213: -6719660353214521097
+    second: sprite_sheet_nahuala_48
+  - first:
+      213: 125912154071259387
+    second: sprite_sheet_nahuala_49
+  - first:
+      213: -1979391844561938299
+    second: sprite_sheet_nahuala_50
+  - first:
+      213: -4848325624679033724
+    second: sprite_sheet_nahuala_51
+  - first:
+      213: -5958130215507975322
+    second: sprite_sheet_nahuala_52
+  - first:
+      213: -2055826605712867965
+    second: sprite_sheet_nahuala_53
+  - first:
+      213: 418214138775832025
+    second: sprite_sheet_nahuala_54
+  - first:
+      213: -8159703963453797542
+    second: sprite_sheet_nahuala_55
+  - first:
+      213: 5999436603260761436
+    second: sprite_sheet_nahuala_56
+  - first:
+      213: -1365265427159721931
+    second: sprite_sheet_nahuala_57
+  - first:
+      213: 8897484080211660501
+    second: sprite_sheet_nahuala_58
+  - first:
+      213: 4764748638683987082
+    second: sprite_sheet_nahuala_59
+  - first:
+      213: -4634929704694795177
+    second: sprite_sheet_nahuala_60
+  - first:
+      213: -8257099258868601251
+    second: sprite_sheet_nahuala_61
+  - first:
+      213: -1624660786738085522
+    second: sprite_sheet_nahuala_62
+  - first:
+      213: -6608358675236648666
+    second: sprite_sheet_nahuala_63
+  - first:
+      213: 5459307725226291827
+    second: sprite_sheet_nahuala_64
+  - first:
+      213: -7684046727377226892
+    second: sprite_sheet_nahuala_65
+  - first:
+      213: 6088883724038768793
+    second: sprite_sheet_nahuala_66
+  - first:
+      213: 5697095300578084709
+    second: sprite_sheet_nahuala_67
+  - first:
+      213: -4066976620038866910
+    second: sprite_sheet_nahuala_68
+  - first:
+      213: 5345299193667260454
+    second: sprite_sheet_nahuala_69
+  - first:
+      213: -5946195275424180258
+    second: sprite_sheet_nahuala_70
+  - first:
+      213: -4610083315092732778
+    second: sprite_sheet_nahuala_71
+  - first:
+      213: -8828704335900475334
+    second: sprite_sheet_nahuala_72
+  - first:
+      213: 1274088242837931909
+    second: sprite_sheet_nahuala_73
+  - first:
+      213: 7657320216371374503
+    second: sprite_sheet_nahuala_74
+  - first:
+      213: -1096452219833594161
+    second: sprite_sheet_nahuala_75
+  - first:
+      213: 7244025991011931488
+    second: sprite_sheet_nahuala_76
+  - first:
+      213: 7481196647281774873
+    second: sprite_sheet_nahuala_77
+  - first:
+      213: -6695884296245937048
+    second: sprite_sheet_nahuala_78
+  - first:
+      213: -3538881868072243223
+    second: sprite_sheet_nahuala_79
+  - first:
+      213: 3686628362955160607
+    second: sprite_sheet_nahuala_80
+  - first:
+      213: -6165521498703051807
+    second: sprite_sheet_nahuala_81
+  - first:
+      213: -467031392170352647
+    second: sprite_sheet_nahuala_82
+  - first:
+      213: -2589815945652866989
+    second: sprite_sheet_nahuala_83
+  - first:
+      213: -5671713431311936980
+    second: sprite_sheet_nahuala_84
+  - first:
+      213: -5949218405204271761
+    second: sprite_sheet_nahuala_85
+  - first:
+      213: 2775948439902419849
+    second: sprite_sheet_nahuala_86
+  - first:
+      213: 4693171133094375469
+    second: sprite_sheet_nahuala_87
+  - first:
+      213: -3718413206459172818
+    second: sprite_sheet_nahuala_88
+  - first:
+      213: -6365558503507747691
+    second: sprite_sheet_nahuala_89
+  - first:
+      213: -7637593317171379499
+    second: sprite_sheet_nahuala_90
+  - first:
+      213: -8294451754244670690
+    second: sprite_sheet_nahuala_91
+  - first:
+      213: 1615333089204004176
+    second: sprite_sheet_nahuala_92
+  - first:
+      213: -1902718145476541656
+    second: sprite_sheet_nahuala_93
+  - first:
+      213: -7757924081655547454
+    second: sprite_sheet_nahuala_94
+  - first:
+      213: -5786049478590267204
+    second: sprite_sheet_nahuala_95
+  - first:
+      213: -3159990107619855764
+    second: sprite_sheet_nahuala_96
+  - first:
+      213: -1503882609419423124
+    second: sprite_sheet_nahuala_97
+  - first:
+      213: 1065508831461602892
+    second: sprite_sheet_nahuala_98
+  - first:
+      213: -375766368169853939
+    second: sprite_sheet_nahuala_99
+  - first:
+      213: 405604674247573638
+    second: sprite_sheet_nahuala_100
+  - first:
+      213: -6838758216661674876
+    second: sprite_sheet_nahuala_101
+  - first:
+      213: -5567037666135435621
+    second: sprite_sheet_nahuala_102
+  - first:
+      213: -1977241767082791497
+    second: sprite_sheet_nahuala_103
+  - first:
+      213: -7941975425646892632
+    second: sprite_sheet_nahuala_104
+  - first:
+      213: 2472823513188924139
+    second: sprite_sheet_nahuala_105
+  - first:
+      213: -5012944805921847503
+    second: sprite_sheet_nahuala_106
+  - first:
+      213: -6815859078281320512
+    second: sprite_sheet_nahuala_107
+  - first:
+      213: -1230041164451244015
+    second: sprite_sheet_nahuala_108
+  - first:
+      213: -3589536114145727500
+    second: sprite_sheet_nahuala_109
+  - first:
+      213: -176416111374860645
+    second: sprite_sheet_nahuala_110
+  - first:
+      213: 7470086563144372301
+    second: sprite_sheet_nahuala_111
+  - first:
+      213: -414280329831446536
+    second: sprite_sheet_nahuala_112
+  - first:
+      213: 7599270519224760028
+    second: sprite_sheet_nahuala_113
+  - first:
+      213: -6014541025091059772
+    second: sprite_sheet_nahuala_114
+  - first:
+      213: -1308865229010117979
+    second: sprite_sheet_nahuala_115
+  - first:
+      213: 4934191346002157339
+    second: sprite_sheet_nahuala_116
+  - first:
+      213: 3200985499954473427
+    second: sprite_sheet_nahuala_117
+  - first:
+      213: -6010252090251969837
+    second: sprite_sheet_nahuala_118
+  - first:
+      213: -41648578565539958
+    second: sprite_sheet_nahuala_119
+  - first:
+      213: -3452745146897316904
+    second: sprite_sheet_nahuala_120
+  - first:
+      213: 6422190953754635773
+    second: sprite_sheet_nahuala_121
+  - first:
+      213: 2692858246030399730
+    second: sprite_sheet_nahuala_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1976
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3189d416056f8d0800000000000000
+      internalID: -2812972538402434120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1975
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0cee869ce566360800000000000000
+      internalID: 7162516476521267424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1976
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23752e0d0013e4430800000000000000
+      internalID: 3769003817729939250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1976
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ae9af7920323130800000000000000
+      internalID: 3544948811487636055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1963
+        width: 21
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b343066ed210090800000000000000
+      internalID: -8070118589791454388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1977
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038631db85e599b0800000000000000
+      internalID: -5073897016489770228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1976
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef7beca45d25ba70800000000000000
+      internalID: 8842023285113454572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1975
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c835ad92a8e588e0800000000000000
+      internalID: -1691690299880556345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1975
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0739c9a75c7469ad0800000000000000
+      internalID: -2695888413443452048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1976
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12b8b164b661a90800000000000000
+      internalID: -7343564193527029327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1975
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b6bd082f1371610800000000000000
+      internalID: 1591795910912469891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1975
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c4e9a857b7afc80800000000000000
+      internalID: -8288176419454956505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1963
+        width: 21
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f920bb204926339d0800000000000000
+      internalID: -2795782555826453857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1627
+        width: 226
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840c5cbdce79e2eb0800000000000000
+      internalID: -4742686314019307448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_14
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1627
+        width: 226
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad7b4bf2bd1c06c0800000000000000
+      internalID: -4175930099921879639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_15
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1627
+        width: 234
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc9bbfb97ef6e5a0800000000000000
+      internalID: -6492222013946749729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_16
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1628
+        width: 248
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e145d9191ad1c50800000000000000
+      internalID: 6637639072595844756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1550
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072c7fd007f31a390800000000000000
+      internalID: -7808890528380501392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1550
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207adbb484a482860800000000000000
+      internalID: 7505330453381752578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1550
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d876bcd77955b840800000000000000
+      internalID: 5239192112854366424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1590
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fee7287fd515baf0800000000000000
+      internalID: -381374543905165582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1538
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa50ea25ba3bc6a50800000000000000
+      internalID: 6515780309306181034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1539
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df13bff465b1318a0800000000000000
+      internalID: -6335690193257156099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1550
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba20f0423c12c71b0800000000000000
+      internalID: -5657609909876882773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1550
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc9e49462671a150800000000000000
+      internalID: 5882112495133302003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1550
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9df6c4eb42debf0800000000000000
+      internalID: -293538000964429389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_26
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1550
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9082a6ff16cd4c30800000000000000
+      internalID: 4345347056066527386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_27
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1550
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f723b546760ceb0800000000000000
+      internalID: -4701644330250371297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_28
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1550
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e6eaacf87e35a0800000000000000
+      internalID: -6539656582301029929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_29
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1550
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba66e043823f2170800000000000000
+      internalID: 8155792989502204592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_30
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1541
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9908b0907aa29f40800000000000000
+      internalID: 5733832676037101982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1550
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cf693a94ce7f5a0800000000000000
+      internalID: -6487456937182561156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1550
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbe347438cee9270800000000000000
+      internalID: 8259298815224572918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1550
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741692aef41dcea80800000000000000
+      internalID: -8436137860810579641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1550
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7cce2bdf86e47c0800000000000000
+      internalID: -4085212373140584510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1550
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d160e692975c3720800000000000000
+      internalID: 2827230953189958099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1217
+        width: 247
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d014a98faacac2d0800000000000000
+      internalID: -3257568525171814189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1217
+        width: 261
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641af51bdc0926d90800000000000000
+      internalID: -7105958048918691514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_38
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1218
+        width: 323
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000c039b6153a8e30800000000000000
+      internalID: 4506472748850135040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_39
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1217
+        width: 320
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528e7c3caf39d8ec0800000000000000
+      internalID: -3563029024944429019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_40
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1462
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a06721f121185230800000000000000
+      internalID: 3627668337324417191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1141
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be295ea67ec354640800000000000000
+      internalID: 5063520320676532971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1140
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e466a397cfc0b4c20800000000000000
+      internalID: 3191659039427290702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1140
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9254de0aa845abf0800000000000000
+      internalID: -313764703801945446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1140
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74150bbf8dbf54d0800000000000000
+      internalID: -3143585589865671557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_45
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1140
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f33d3cd35a8a3da0800000000000000
+      internalID: -5964302663716883469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1181
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c747ed996a6cbb40800000000000000
+      internalID: 5457353850319488969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_47
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1126
+        width: 22
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f5371b87a1be10800000000000000
+      internalID: 2211733107847329532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_48
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1140
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f06f53d288feb2a0800000000000000
+      internalID: -6719660353214521097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_49
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1140
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf85250ef645fb100800000000000000
+      internalID: 125912154071259387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_50
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1128
+        width: 19
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5889499ca99c784e0800000000000000
+      internalID: -1979391844561938299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1140
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4841599288947bcb0800000000000000
+      internalID: -4848325624679033724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1140
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6632023f228705da0800000000000000
+      internalID: -5958130215507975322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1140
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dffa6289c3873e0800000000000000
+      internalID: -2055826605712867965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_54
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1140
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d587cd1b8bcdc500800000000000000
+      internalID: 418214138775832025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1140
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b4df92a78e2ce80800000000000000
+      internalID: -8159703963453797542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_56
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1140
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5575d5edc7424350800000000000000
+      internalID: 5999436603260761436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1127
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538d506d35a9d0de0800000000000000
+      internalID: -1365265427159721931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_58
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1140
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de85bb41a63a7b70800000000000000
+      internalID: 8897484080211660501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_59
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1140
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cf8c464a9cf1240800000000000000
+      internalID: 4764748638683987082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_60
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1141
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754b2c09dfb6dafb0800000000000000
+      internalID: -4634929704694795177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_61
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1140
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eeef7d8f3e86d80800000000000000
+      internalID: -8257099258868601251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_62
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1140
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6148fd4f9b0479e0800000000000000
+      internalID: -1624660786738085522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_63
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 812
+        width: 220
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62906262cc46a44a0800000000000000
+      internalID: -6608358675236648666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_64
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 812
+        width: 229
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372b8a1937b53cb40800000000000000
+      internalID: 5459307725226291827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_65
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 812
+        width: 269
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4737d299638cc5590800000000000000
+      internalID: -7684046727377226892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_66
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 920
+        width: 147
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9980df99c7f008450800000000000000
+      internalID: 6088883724038768793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_67
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 812
+        width: 424
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567018acdf5201f40800000000000000
+      internalID: 5697095300578084709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 737
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228b3c4df423f87c0800000000000000
+      internalID: -4066976620038866910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 737
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62018b8cb415e2a40800000000000000
+      internalID: 5345299193667260454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 737
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed75c3bb6eeda7da0800000000000000
+      internalID: -5946195275424180258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 737
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69441f276a1b500c0800000000000000
+      internalID: -4610083315092732778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_72
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 737
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3083b7de242a7580800000000000000
+      internalID: -8828704335900475334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_73
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 737
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5874bd6a1887ea110800000000000000
+      internalID: 1274088242837931909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 733
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9ab34aa24444a60800000000000000
+      internalID: 7657320216371374503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_75
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 738
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce41abe38e98c0f0800000000000000
+      internalID: -1096452219833594161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 737
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06596f12243f78460800000000000000
+      internalID: 7244025991011931488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 737
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911d210b6bc82d760800000000000000
+      internalID: 7481196647281774873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_78
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 737
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cf42975b07313a0800000000000000
+      internalID: -6695884296245937048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_79
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 737
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efab77d0bd53eec0800000000000000
+      internalID: -3538881868072243223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_80
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 737
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c72d8a6f8892330800000000000000
+      internalID: 3686628362955160607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_81
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 737
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e345cefcdaaf6aa0800000000000000
+      internalID: -6165521498703051807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_82
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 737
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffdaba5c65c489f0800000000000000
+      internalID: -467031392170352647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_83
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 737
+        width: 11
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350f7bd6e102f0cd0800000000000000
+      internalID: -2589815945652866989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_84
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 737
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2217da2fa60a41b0800000000000000
+      internalID: -5671713431311936980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_85
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 724
+        width: 21
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d559a7161207da0800000000000000
+      internalID: -5949218405204271761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_86
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 737
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bfe230666268620800000000000000
+      internalID: 2775948439902419849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_87
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 738
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d203532b74e712140800000000000000
+      internalID: 4693171133094375469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_88
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 738
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2831e4c3ea856cc0800000000000000
+      internalID: -3718413206459172818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_89
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 737
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c1479644ef8a7a0800000000000000
+      internalID: -6365558503507747691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_90
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 738
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d24a1ff751d10690800000000000000
+      internalID: -7637593317171379499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_91
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 737
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b71ad431034ec80800000000000000
+      internalID: -8294451754244670690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_92
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 737
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05560ffd2e0da6610800000000000000
+      internalID: 1615333089204004176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_93
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 724
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8234e2f7def2895e0800000000000000
+      internalID: -1902718145476541656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_94
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 407
+        width: 238
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9f876a621565490800000000000000
+      internalID: -7757924081655547454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_95
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 408
+        width: 282
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb00bcfa7a2d3bfa0800000000000000
+      internalID: -5786049478590267204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_96
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 705
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62f19d4db57524d0800000000000000
+      internalID: -3159990107619855764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_97
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 618
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62faa11cb2212be0800000000000000
+      internalID: -1503882609419423124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_98
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 609
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c467f4c03a279ce00800000000000000
+      internalID: 1065508831461602892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_99
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 608
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c72b2aa7209caf0800000000000000
+      internalID: -375766368169853939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_100
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 336
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680c3cf5d4ff0a500800000000000000
+      internalID: 405604674247573638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_101
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 335
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484d81f92a9d711a0800000000000000
+      internalID: -6838758216661674876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 336
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9617c2fcb8edb2b0800000000000000
+      internalID: -5567037666135435621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_103
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 335
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bde6f5b61d6f84e0800000000000000
+      internalID: -1977241767082791497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 335
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a96f63cd6f68c190800000000000000
+      internalID: -7941975425646892632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_105
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 336
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beafbd732eb315220800000000000000
+      internalID: 2472823513188924139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 322
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137836c32417e6ab0800000000000000
+      internalID: -5012944805921847503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_107
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 335
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7abefb7443961a0800000000000000
+      internalID: -6815859078281320512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_108
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 336
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11896c5f3140eeee0800000000000000
+      internalID: -1230041164451244015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb68ef1ce76f2ec0800000000000000
+      internalID: -3589536114145727500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_110
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 335
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e78dc3b7e3d8df0800000000000000
+      internalID: -176416111374860645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_111
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 335
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4093a5a6241ba760800000000000000
+      internalID: 7470086563144372301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_112
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 335
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f707f62c3e204af0800000000000000
+      internalID: -414280329831446536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_113
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 335
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd67d7a4648067960800000000000000
+      internalID: 7599270519224760028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_114
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 322
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cffe68ddce088ca0800000000000000
+      internalID: -6014541025091059772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_115
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 8
+        width: 208
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaddf5420af5dde0800000000000000
+      internalID: -1308865229010117979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_116
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 8
+        width: 288
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fd34003e4c97440800000000000000
+      internalID: 4934191346002157339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_117
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 9
+        width: 300
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d966f74a5f2c6c20800000000000000
+      internalID: 3200985499954473427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_118
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 193
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da7bfd419b479ca0800000000000000
+      internalID: -6010252090251969837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_119
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 9
+        width: 260
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a877335a6d80c6ff0800000000000000
+      internalID: -41648578565539958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_120
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 167
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d34b3315926510d0800000000000000
+      internalID: -3452745146897316904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_121
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 146
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfda54e65a4302950800000000000000
+      internalID: 6422190953754635773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_nahuala_122
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 8
+        width: 322
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f89f11be44fe5520800000000000000
+      internalID: 2692858246030399730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_sheet_nahuala_0: -2812972538402434120
+      sprite_sheet_nahuala_1: 7162516476521267424
+      sprite_sheet_nahuala_10: 1591795910912469891
+      sprite_sheet_nahuala_100: 405604674247573638
+      sprite_sheet_nahuala_101: -6838758216661674876
+      sprite_sheet_nahuala_102: -5567037666135435621
+      sprite_sheet_nahuala_103: -1977241767082791497
+      sprite_sheet_nahuala_104: -7941975425646892632
+      sprite_sheet_nahuala_105: 2472823513188924139
+      sprite_sheet_nahuala_106: -5012944805921847503
+      sprite_sheet_nahuala_107: -6815859078281320512
+      sprite_sheet_nahuala_108: -1230041164451244015
+      sprite_sheet_nahuala_109: -3589536114145727500
+      sprite_sheet_nahuala_11: -8288176419454956505
+      sprite_sheet_nahuala_110: -176416111374860645
+      sprite_sheet_nahuala_111: 7470086563144372301
+      sprite_sheet_nahuala_112: -414280329831446536
+      sprite_sheet_nahuala_113: 7599270519224760028
+      sprite_sheet_nahuala_114: -6014541025091059772
+      sprite_sheet_nahuala_115: -1308865229010117979
+      sprite_sheet_nahuala_116: 4934191346002157339
+      sprite_sheet_nahuala_117: 3200985499954473427
+      sprite_sheet_nahuala_118: -6010252090251969837
+      sprite_sheet_nahuala_119: -41648578565539958
+      sprite_sheet_nahuala_12: -2795782555826453857
+      sprite_sheet_nahuala_120: -3452745146897316904
+      sprite_sheet_nahuala_121: 6422190953754635773
+      sprite_sheet_nahuala_122: 2692858246030399730
+      sprite_sheet_nahuala_13: -4742686314019307448
+      sprite_sheet_nahuala_14: -4175930099921879639
+      sprite_sheet_nahuala_15: -6492222013946749729
+      sprite_sheet_nahuala_16: 6637639072595844756
+      sprite_sheet_nahuala_17: -7808890528380501392
+      sprite_sheet_nahuala_18: 7505330453381752578
+      sprite_sheet_nahuala_19: 5239192112854366424
+      sprite_sheet_nahuala_2: 3769003817729939250
+      sprite_sheet_nahuala_20: -381374543905165582
+      sprite_sheet_nahuala_21: 6515780309306181034
+      sprite_sheet_nahuala_22: -6335690193257156099
+      sprite_sheet_nahuala_23: -5657609909876882773
+      sprite_sheet_nahuala_24: 5882112495133302003
+      sprite_sheet_nahuala_25: -293538000964429389
+      sprite_sheet_nahuala_26: 4345347056066527386
+      sprite_sheet_nahuala_27: -4701644330250371297
+      sprite_sheet_nahuala_28: -6539656582301029929
+      sprite_sheet_nahuala_29: 8155792989502204592
+      sprite_sheet_nahuala_3: 3544948811487636055
+      sprite_sheet_nahuala_30: 5733832676037101982
+      sprite_sheet_nahuala_31: -6487456937182561156
+      sprite_sheet_nahuala_32: 8259298815224572918
+      sprite_sheet_nahuala_33: -8436137860810579641
+      sprite_sheet_nahuala_34: -4085212373140584510
+      sprite_sheet_nahuala_35: 2827230953189958099
+      sprite_sheet_nahuala_36: -3257568525171814189
+      sprite_sheet_nahuala_37: -7105958048918691514
+      sprite_sheet_nahuala_38: 4506472748850135040
+      sprite_sheet_nahuala_39: -3563029024944429019
+      sprite_sheet_nahuala_4: -8070118589791454388
+      sprite_sheet_nahuala_40: 3627668337324417191
+      sprite_sheet_nahuala_41: 5063520320676532971
+      sprite_sheet_nahuala_42: 3191659039427290702
+      sprite_sheet_nahuala_43: -313764703801945446
+      sprite_sheet_nahuala_44: -3143585589865671557
+      sprite_sheet_nahuala_45: -5964302663716883469
+      sprite_sheet_nahuala_46: 5457353850319488969
+      sprite_sheet_nahuala_47: 2211733107847329532
+      sprite_sheet_nahuala_48: -6719660353214521097
+      sprite_sheet_nahuala_49: 125912154071259387
+      sprite_sheet_nahuala_5: -5073897016489770228
+      sprite_sheet_nahuala_50: -1979391844561938299
+      sprite_sheet_nahuala_51: -4848325624679033724
+      sprite_sheet_nahuala_52: -5958130215507975322
+      sprite_sheet_nahuala_53: -2055826605712867965
+      sprite_sheet_nahuala_54: 418214138775832025
+      sprite_sheet_nahuala_55: -8159703963453797542
+      sprite_sheet_nahuala_56: 5999436603260761436
+      sprite_sheet_nahuala_57: -1365265427159721931
+      sprite_sheet_nahuala_58: 8897484080211660501
+      sprite_sheet_nahuala_59: 4764748638683987082
+      sprite_sheet_nahuala_6: 8842023285113454572
+      sprite_sheet_nahuala_60: -4634929704694795177
+      sprite_sheet_nahuala_61: -8257099258868601251
+      sprite_sheet_nahuala_62: -1624660786738085522
+      sprite_sheet_nahuala_63: -6608358675236648666
+      sprite_sheet_nahuala_64: 5459307725226291827
+      sprite_sheet_nahuala_65: -7684046727377226892
+      sprite_sheet_nahuala_66: 6088883724038768793
+      sprite_sheet_nahuala_67: 5697095300578084709
+      sprite_sheet_nahuala_68: -4066976620038866910
+      sprite_sheet_nahuala_69: 5345299193667260454
+      sprite_sheet_nahuala_7: -1691690299880556345
+      sprite_sheet_nahuala_70: -5946195275424180258
+      sprite_sheet_nahuala_71: -4610083315092732778
+      sprite_sheet_nahuala_72: -8828704335900475334
+      sprite_sheet_nahuala_73: 1274088242837931909
+      sprite_sheet_nahuala_74: 7657320216371374503
+      sprite_sheet_nahuala_75: -1096452219833594161
+      sprite_sheet_nahuala_76: 7244025991011931488
+      sprite_sheet_nahuala_77: 7481196647281774873
+      sprite_sheet_nahuala_78: -6695884296245937048
+      sprite_sheet_nahuala_79: -3538881868072243223
+      sprite_sheet_nahuala_8: -2695888413443452048
+      sprite_sheet_nahuala_80: 3686628362955160607
+      sprite_sheet_nahuala_81: -6165521498703051807
+      sprite_sheet_nahuala_82: -467031392170352647
+      sprite_sheet_nahuala_83: -2589815945652866989
+      sprite_sheet_nahuala_84: -5671713431311936980
+      sprite_sheet_nahuala_85: -5949218405204271761
+      sprite_sheet_nahuala_86: 2775948439902419849
+      sprite_sheet_nahuala_87: 4693171133094375469
+      sprite_sheet_nahuala_88: -3718413206459172818
+      sprite_sheet_nahuala_89: -6365558503507747691
+      sprite_sheet_nahuala_9: -7343564193527029327
+      sprite_sheet_nahuala_90: -7637593317171379499
+      sprite_sheet_nahuala_91: -8294451754244670690
+      sprite_sheet_nahuala_92: 1615333089204004176
+      sprite_sheet_nahuala_93: -1902718145476541656
+      sprite_sheet_nahuala_94: -7757924081655547454
+      sprite_sheet_nahuala_95: -5786049478590267204
+      sprite_sheet_nahuala_96: -3159990107619855764
+      sprite_sheet_nahuala_97: -1503882609419423124
+      sprite_sheet_nahuala_98: 1065508831461602892
+      sprite_sheet_nahuala_99: -375766368169853939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3304 @@
+fileFormatVersion: 2
+guid: 7cccd2e2e57ccb641bcea6baa3714e63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8081697917217188095
+    second: sprite_sheet_chupacabras_0
+  - first:
+      213: -1673775950073796004
+    second: sprite_sheet_chupacabras_1
+  - first:
+      213: 4372606831993619309
+    second: sprite_sheet_chupacabras_2
+  - first:
+      213: 2510390186271741348
+    second: sprite_sheet_chupacabras_3
+  - first:
+      213: -6286445563704686433
+    second: sprite_sheet_chupacabras_4
+  - first:
+      213: -814581134693319488
+    second: sprite_sheet_chupacabras_5
+  - first:
+      213: 2846832694913797820
+    second: sprite_sheet_chupacabras_6
+  - first:
+      213: -7177289894984772298
+    second: sprite_sheet_chupacabras_7
+  - first:
+      213: 2292901680218990318
+    second: sprite_sheet_chupacabras_8
+  - first:
+      213: -6722967376735533628
+    second: sprite_sheet_chupacabras_9
+  - first:
+      213: -5442392924665510713
+    second: sprite_sheet_chupacabras_10
+  - first:
+      213: -2448897786991149606
+    second: sprite_sheet_chupacabras_11
+  - first:
+      213: 2052294134967968843
+    second: sprite_sheet_chupacabras_12
+  - first:
+      213: 5083044124874276148
+    second: sprite_sheet_chupacabras_13
+  - first:
+      213: 3991599096445619684
+    second: sprite_sheet_chupacabras_14
+  - first:
+      213: -3595230799130257417
+    second: sprite_sheet_chupacabras_15
+  - first:
+      213: 1500187360332460194
+    second: sprite_sheet_chupacabras_16
+  - first:
+      213: -4882677944553475985
+    second: sprite_sheet_chupacabras_17
+  - first:
+      213: 5730846453460495986
+    second: sprite_sheet_chupacabras_18
+  - first:
+      213: 9215078869690074455
+    second: sprite_sheet_chupacabras_19
+  - first:
+      213: 8069681497945263803
+    second: sprite_sheet_chupacabras_20
+  - first:
+      213: 3287656493678129254
+    second: sprite_sheet_chupacabras_21
+  - first:
+      213: -3512985776423627238
+    second: sprite_sheet_chupacabras_22
+  - first:
+      213: -2281254399059666684
+    second: sprite_sheet_chupacabras_23
+  - first:
+      213: -2350070165488141269
+    second: sprite_sheet_chupacabras_24
+  - first:
+      213: -7260773814431803874
+    second: sprite_sheet_chupacabras_25
+  - first:
+      213: 8863521277364388617
+    second: sprite_sheet_chupacabras_26
+  - first:
+      213: -4230697588170912448
+    second: sprite_sheet_chupacabras_27
+  - first:
+      213: 8353589999539810208
+    second: sprite_sheet_chupacabras_28
+  - first:
+      213: 7046299805435841557
+    second: sprite_sheet_chupacabras_29
+  - first:
+      213: -3984539124664130714
+    second: sprite_sheet_chupacabras_30
+  - first:
+      213: -3927422627496837007
+    second: sprite_sheet_chupacabras_31
+  - first:
+      213: -4018422081240480922
+    second: sprite_sheet_chupacabras_32
+  - first:
+      213: -5304782067305132393
+    second: sprite_sheet_chupacabras_33
+  - first:
+      213: -6009152391776426881
+    second: sprite_sheet_chupacabras_34
+  - first:
+      213: 8144924317749390060
+    second: sprite_sheet_chupacabras_35
+  - first:
+      213: 7845194107754969332
+    second: sprite_sheet_chupacabras_36
+  - first:
+      213: -6131256212343999864
+    second: sprite_sheet_chupacabras_37
+  - first:
+      213: 4008963208576886460
+    second: sprite_sheet_chupacabras_38
+  - first:
+      213: 9072214979148633113
+    second: sprite_sheet_chupacabras_39
+  - first:
+      213: 6941258827365754303
+    second: sprite_sheet_chupacabras_40
+  - first:
+      213: 414990556178347093
+    second: sprite_sheet_chupacabras_41
+  - first:
+      213: -2656387995295803665
+    second: sprite_sheet_chupacabras_42
+  - first:
+      213: 5066907610425837938
+    second: sprite_sheet_chupacabras_43
+  - first:
+      213: -9045248374919841158
+    second: sprite_sheet_chupacabras_44
+  - first:
+      213: 5210219384591362748
+    second: sprite_sheet_chupacabras_45
+  - first:
+      213: 7233860060617628283
+    second: sprite_sheet_chupacabras_46
+  - first:
+      213: -7333314493256098229
+    second: sprite_sheet_chupacabras_47
+  - first:
+      213: -8104401064982787966
+    second: sprite_sheet_chupacabras_48
+  - first:
+      213: -3512130900298965512
+    second: sprite_sheet_chupacabras_49
+  - first:
+      213: 6515279151504340775
+    second: sprite_sheet_chupacabras_50
+  - first:
+      213: 3052565270243288905
+    second: sprite_sheet_chupacabras_51
+  - first:
+      213: 5781314717075421811
+    second: sprite_sheet_chupacabras_52
+  - first:
+      213: -3856199774041081935
+    second: sprite_sheet_chupacabras_53
+  - first:
+      213: -963939923946578612
+    second: sprite_sheet_chupacabras_54
+  - first:
+      213: 827414129650437395
+    second: sprite_sheet_chupacabras_55
+  - first:
+      213: -7245449064393234582
+    second: sprite_sheet_chupacabras_56
+  - first:
+      213: -5070479355240492870
+    second: sprite_sheet_chupacabras_57
+  - first:
+      213: -2721448524667204260
+    second: sprite_sheet_chupacabras_58
+  - first:
+      213: -2010150493226349174
+    second: sprite_sheet_chupacabras_59
+  - first:
+      213: -2535812280527911085
+    second: sprite_sheet_chupacabras_60
+  - first:
+      213: 6707625707773377762
+    second: sprite_sheet_chupacabras_61
+  - first:
+      213: 549480128184667899
+    second: sprite_sheet_chupacabras_62
+  - first:
+      213: 2970710591790149212
+    second: sprite_sheet_chupacabras_63
+  - first:
+      213: 8332484292515045351
+    second: sprite_sheet_chupacabras_64
+  - first:
+      213: 3993294268039922215
+    second: sprite_sheet_chupacabras_65
+  - first:
+      213: -7652443073426595608
+    second: sprite_sheet_chupacabras_66
+  - first:
+      213: 9188088140176166699
+    second: sprite_sheet_chupacabras_67
+  - first:
+      213: 7733211920718414470
+    second: sprite_sheet_chupacabras_68
+  - first:
+      213: 9008499437147392762
+    second: sprite_sheet_chupacabras_69
+  - first:
+      213: -9115977082028674470
+    second: sprite_sheet_chupacabras_70
+  - first:
+      213: -2362027010232276437
+    second: sprite_sheet_chupacabras_71
+  - first:
+      213: 4106413459168411353
+    second: sprite_sheet_chupacabras_72
+  - first:
+      213: 14551532027896030
+    second: sprite_sheet_chupacabras_73
+  - first:
+      213: 3760254227349229944
+    second: sprite_sheet_chupacabras_74
+  - first:
+      213: -2903161787286114956
+    second: sprite_sheet_chupacabras_75
+  - first:
+      213: -6947635853429042789
+    second: sprite_sheet_chupacabras_76
+  - first:
+      213: 3525303939404042446
+    second: sprite_sheet_chupacabras_77
+  - first:
+      213: -7219931026752844939
+    second: sprite_sheet_chupacabras_78
+  - first:
+      213: 3013883812309624656
+    second: sprite_sheet_chupacabras_79
+  - first:
+      213: -4932500249336456026
+    second: sprite_sheet_chupacabras_80
+  - first:
+      213: 8538931469686455081
+    second: sprite_sheet_chupacabras_81
+  - first:
+      213: -4971083688219923678
+    second: sprite_sheet_chupacabras_82
+  - first:
+      213: 6978085734978059115
+    second: sprite_sheet_chupacabras_83
+  - first:
+      213: 2194157592652177953
+    second: sprite_sheet_chupacabras_84
+  - first:
+      213: 8773824297521205018
+    second: sprite_sheet_chupacabras_85
+  - first:
+      213: 2713774313250030109
+    second: sprite_sheet_chupacabras_86
+  - first:
+      213: -5215285597944014698
+    second: sprite_sheet_chupacabras_87
+  - first:
+      213: 7171062463136362623
+    second: sprite_sheet_chupacabras_88
+  - first:
+      213: -5364066027546105606
+    second: sprite_sheet_chupacabras_89
+  - first:
+      213: -5967595752533379481
+    second: sprite_sheet_chupacabras_90
+  - first:
+      213: 7159636440141208347
+    second: sprite_sheet_chupacabras_91
+  - first:
+      213: -6748855937001495619
+    second: sprite_sheet_chupacabras_92
+  - first:
+      213: -5876891117761801079
+    second: sprite_sheet_chupacabras_93
+  - first:
+      213: -3527563721977146104
+    second: sprite_sheet_chupacabras_94
+  - first:
+      213: -4805544479107980995
+    second: sprite_sheet_chupacabras_95
+  - first:
+      213: -4321308004562121351
+    second: sprite_sheet_chupacabras_96
+  - first:
+      213: 6294688857311854970
+    second: sprite_sheet_chupacabras_97
+  - first:
+      213: 5679262213101296508
+    second: sprite_sheet_chupacabras_98
+  - first:
+      213: -8635563045269293785
+    second: sprite_sheet_chupacabras_99
+  - first:
+      213: 5053050391848341839
+    second: sprite_sheet_chupacabras_100
+  - first:
+      213: 3833072927055093090
+    second: sprite_sheet_chupacabras_101
+  - first:
+      213: 8398822769128644763
+    second: sprite_sheet_chupacabras_102
+  - first:
+      213: -7086462511700551478
+    second: sprite_sheet_chupacabras_103
+  - first:
+      213: 7049168468998336803
+    second: sprite_sheet_chupacabras_104
+  - first:
+      213: 5766549459764519384
+    second: sprite_sheet_chupacabras_105
+  - first:
+      213: 1673326429078945702
+    second: sprite_sheet_chupacabras_106
+  - first:
+      213: -4909919182882077146
+    second: sprite_sheet_chupacabras_107
+  - first:
+      213: -344286911290005898
+    second: sprite_sheet_chupacabras_108
+  - first:
+      213: 7830851613738897323
+    second: sprite_sheet_chupacabras_109
+  - first:
+      213: 925029362193877468
+    second: sprite_sheet_chupacabras_110
+  - first:
+      213: -3794622758723910129
+    second: sprite_sheet_chupacabras_111
+  - first:
+      213: -902959359670119904
+    second: sprite_sheet_chupacabras_112
+  - first:
+      213: 5934589768948268379
+    second: sprite_sheet_chupacabras_113
+  - first:
+      213: 5441428425809934965
+    second: sprite_sheet_chupacabras_114
+  - first:
+      213: 3553425370576284810
+    second: sprite_sheet_chupacabras_115
+  - first:
+      213: -5032266788060295188
+    second: sprite_sheet_chupacabras_116
+  - first:
+      213: -8009530798467740424
+    second: sprite_sheet_chupacabras_117
+  - first:
+      213: 2012602434443180689
+    second: sprite_sheet_chupacabras_118
+  - first:
+      213: -5849533505177464542
+    second: sprite_sheet_chupacabras_119
+  - first:
+      213: -8926428150226207169
+    second: sprite_sheet_chupacabras_120
+  - first:
+      213: -6249858090894893441
+    second: sprite_sheet_chupacabras_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1711
+        width: 12
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107514e109a08df80800000000000000
+      internalID: -8081697917217188095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1709
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a624634ad85c8e0800000000000000
+      internalID: -1673775950073796004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1710
+        width: 10
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d630d632fbe9eac30800000000000000
+      internalID: 4372606831993619309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1709
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a59a54e292b6d220800000000000000
+      internalID: 2510390186271741348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1694
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984d8b111f02c8a0800000000000000
+      internalID: -6286445563704686433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1710
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccbed916c602b4f0800000000000000
+      internalID: -814581134693319488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1710
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe0e4bb04bf18720800000000000000
+      internalID: 2846832694913797820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1710
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6359e6f0ed4256c90800000000000000
+      internalID: -7177289894984772298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1709
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6695a0ee502df10800000000000000
+      internalID: 2292901680218990318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1710
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c583296ac833b2a0800000000000000
+      internalID: -6722967376735533628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1709
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c48635587cb874b0800000000000000
+      internalID: -5442392924665510713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_11
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1709
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addf6230074c30ed0800000000000000
+      internalID: -2448897786991149606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1695
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44226964a63b7c10800000000000000
+      internalID: 2052294134967968843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1345
+        width: 261
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d74c053b99a8640800000000000000
+      internalID: 5083044124874276148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1346
+        width: 262
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed4965da32056730800000000000000
+      internalID: 3991599096445619684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1266
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f71c44f2ac2b1ec0800000000000000
+      internalID: -3595230799130257417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1315
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0b525b47cb1d410800000000000000
+      internalID: 1500187360332460194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1251
+        width: 23
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60714a674e3d3cb0800000000000000
+      internalID: -4882677944553475985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1268
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ee1d07c7e088f40800000000000000
+      internalID: 5730846453460495986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1267
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755c51d886982ef70800000000000000
+      internalID: 9215078869690074455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_20
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1250
+        width: 23
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbec19f31944dff60800000000000000
+      internalID: 8069681497945263803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1266
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660f039892a10ad20800000000000000
+      internalID: 3287656493678129254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1267
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1615478c0e5f3fc0800000000000000
+      internalID: -3512985776423627238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1267
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40950cde53b5750e0800000000000000
+      internalID: -2281254399059666684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1267
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cf5dcb2afd26fd0800000000000000
+      internalID: -2350070165488141269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1266
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16955c5fac8c3b90800000000000000
+      internalID: -7260773814431803874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1268
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903cb6c04ad810b70800000000000000
+      internalID: 8863521277364388617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1267
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d88f075fa8945c0800000000000000
+      internalID: -4230697588170912448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_28
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1266
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af63d968d9ede370800000000000000
+      internalID: 8353589999539810208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1267
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c48e3175c79c160800000000000000
+      internalID: 7046299805435841557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_30
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1266
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663afb0f6c214b8c0800000000000000
+      internalID: -3984539124664130714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1266
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170483dbdedfe79c0800000000000000
+      internalID: -3927422627496837007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 911
+        width: 298
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663431a5862bb38c0800000000000000
+      internalID: -4018422081240480922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_33
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 911
+        width: 308
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4a63d0d0a166b0800000000000000
+      internalID: -5304782067305132393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_34
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 912
+        width: 306
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f742afeccb33b9ca0800000000000000
+      internalID: -6009152391776426881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_35
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 913
+        width: 298
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaa4e96385980170800000000000000
+      internalID: 8144924317749390060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 825
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8f8b2b97abfdc60800000000000000
+      internalID: 7845194107754969332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 824
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882345ca5f669eaa0800000000000000
+      internalID: -6131256212343999864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_38
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 873
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e5dc3cc2b2a730800000000000000
+      internalID: 4008963208576886460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 824
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914d126f47bf6ed70800000000000000
+      internalID: 9072214979148633113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_40
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 820
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb52e2b802e445060800000000000000
+      internalID: 6941258827365754303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_41
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 825
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f62e46b752c500800000000000000
+      internalID: 414990556178347093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_42
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 824
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe618c2413d922bd0800000000000000
+      internalID: -2656387995295803665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_43
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 824
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279c72540a5415640800000000000000
+      internalID: 5066907610425837938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_44
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 874
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a39bbd682d87280800000000000000
+      internalID: -9045248374919841158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_45
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 824
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba2c64ecea6e4840800000000000000
+      internalID: 5210219384591362748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_46
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 811
+        width: 22
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7adff30665d36460800000000000000
+      internalID: 7233860060617628283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_47
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 824
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1f3b6255da3a90800000000000000
+      internalID: -7333314493256098229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_48
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 825
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288476c9b22678f80800000000000000
+      internalID: -8104401064982787966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_49
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 810
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdd103ed87624fc0800000000000000
+      internalID: -3512130900298965512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_50
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 825
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727bced6edbea6a50800000000000000
+      internalID: 6515279151504340775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_51
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 873
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947ab8aa0f3ec5a20800000000000000
+      internalID: 3052565270243288905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_52
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 826
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ab40eba1b5b3050800000000000000
+      internalID: 5781314717075421811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_53
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 825
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f65d8cb60c7ac0800000000000000
+      internalID: -3856199774041081935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_54
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 825
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dd8501fb56f92f0800000000000000
+      internalID: -963939923946578612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_55
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 810
+        width: 23
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d04ff54c09b7b00800000000000000
+      internalID: 827414129650437395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 825
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67a7a6c67ef27b90800000000000000
+      internalID: -7245449064393234582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 824
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab050f514e902a9b0800000000000000
+      internalID: -5070479355240492870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_58
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 808
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d43b45cf87b3ad0800000000000000
+      internalID: -2721448524667204260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_59
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 824
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dca22d6c28a14e0800000000000000
+      internalID: -2010150493226349174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_60
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 824
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3578f0a8a2cfeccd0800000000000000
+      internalID: -2535812280527911085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_61
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 824
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec3c1eea06461d50800000000000000
+      internalID: 6707625707773377762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_62
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 825
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe459be34520a700800000000000000
+      internalID: 549480128184667899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_63
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 824
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e64223b851a3920800000000000000
+      internalID: 2970710591790149212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_64
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 824
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef91ef015ee2a370800000000000000
+      internalID: 8332484292515045351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_65
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 825
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7228f1abaf70b6730800000000000000
+      internalID: 3993294268039922215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_66
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 824
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e06280b19f0dc590800000000000000
+      internalID: -7652443073426595608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_67
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 825
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0e20ab75a28f70800000000000000
+      internalID: 9188088140176166699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_68
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 824
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682cc330543e15b60800000000000000
+      internalID: 7733211920718414470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_69
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 825
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa0a7e428e940d70800000000000000
+      internalID: 9008499437147392762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_70
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 824
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a523415742b8d7180800000000000000
+      internalID: -9115977082028674470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_71
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 824
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2a31e2f4683fd0800000000000000
+      internalID: -2362027010232276437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_72
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 824
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9debd9ec849ecf830800000000000000
+      internalID: 4106413459168411353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_73
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 825
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0e5719a82b33000800000000000000
+      internalID: 14551532027896030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_74
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 824
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871df4e0c4b1f2430800000000000000
+      internalID: 3760254227349229944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_75
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 807
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47da25f6cb5e5b7d0800000000000000
+      internalID: -2903161787286114956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_76
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 825
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91189f500a059f90800000000000000
+      internalID: -6947635853429042789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_77
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 824
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0967941456ce030800000000000000
+      internalID: 3525303939404042446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_78
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 825
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b4397ebf6adcb90800000000000000
+      internalID: -7219931026752844939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_79
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 824
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057e30beb5773d920800000000000000
+      internalID: 3013883812309624656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 461
+        width: 303
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac56cf182d3c8bb0800000000000000
+      internalID: -4932500249336456026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_81
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 462
+        width: 521
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bb0143ee0608670800000000000000
+      internalID: 8538931469686455081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_82
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 459
+        width: 491
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ba9e639b9230bb0800000000000000
+      internalID: -4971083688219923678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_83
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 445
+        width: 354
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b7695210427d060800000000000000
+      internalID: 6978085734978059115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_84
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 374
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122624394b6337e10800000000000000
+      internalID: 2194157592652177953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_85
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 374
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f417f76b2e2c970800000000000000
+      internalID: 8773824297521205018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_86
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 374
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1209d51c5349a520800000000000000
+      internalID: 2713774313250030109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_87
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 375
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698165461659f97b0800000000000000
+      internalID: -5215285597944014698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_88
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 374
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f707169f05bb48360800000000000000
+      internalID: 7171062463136362623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_89
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 374
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8af543e520f85b0800000000000000
+      internalID: -5364066027546105606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_90
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 357
+        width: 23
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7663e1fd747de2da0800000000000000
+      internalID: -5967595752533379481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_91
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 375
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b1f8fa8632c5360800000000000000
+      internalID: 7159636440141208347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_92
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 375
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db36db2484f3752a0800000000000000
+      internalID: -6748855937001495619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_93
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 374
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984d82e5aa6117ea0800000000000000
+      internalID: -5876891117761801079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_94
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 374
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8055ff41c739b0fc0800000000000000
+      internalID: -3527563721977146104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_95
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 375
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31ed62d1c64f4db0800000000000000
+      internalID: -4805544479107980995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_96
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 374
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dc50fd341a704c0800000000000000
+      internalID: -4321308004562121351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_97
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 374
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71ceaf3a2a3b5750800000000000000
+      internalID: 6294688857311854970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_98
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 357
+        width: 23
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b933e84eac0de40800000000000000
+      internalID: 5679262213101296508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_99
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 388
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725bb3bd921582880800000000000000
+      internalID: -8635563045269293785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_100
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d4462f8a002640800000000000000
+      internalID: 5053050391848341839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_101
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 247
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d1947c48fc13530800000000000000
+      internalID: 3833072927055093090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_102
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9020654fcc9e8470800000000000000
+      internalID: 8398822769128644763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_103
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 226
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac857fb24e3d7ad90800000000000000
+      internalID: -7086462511700551478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_104
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 229
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321b78cdf5da3d160800000000000000
+      internalID: 7049168468998336803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_105
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 209
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d12cf06e26e60050800000000000000
+      internalID: 5766549459764519384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_106
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 19
+        width: 531
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aff5868589d83710800000000000000
+      internalID: 1673326429078945702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_107
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 221
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626007c54867cdbb0800000000000000
+      internalID: -4909919182882077146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_108
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 191
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6762eb7d0e8d83bf0800000000000000
+      internalID: -344286911290005898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_109
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 197
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf83b59d06ccac60800000000000000
+      internalID: 7830851613738897323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_110
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 202
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd94f5ccd4d56dc00800000000000000
+      internalID: 925029362193877468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_111
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0606a9a4bac65bc0800000000000000
+      internalID: -3794622758723910129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_112
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 202
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0229f381f3b0873f0800000000000000
+      internalID: -902959359670119904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_113
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 201
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d34d9b3f5eb5250800000000000000
+      internalID: 5934589768948268379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_114
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 203
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a3d17c256d38b40800000000000000
+      internalID: 5441428425809934965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_115
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 8
+        width: 533
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c6f053c8d405130800000000000000
+      internalID: 3553425370576284810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_116
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 142
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef8ba2b40cc92ab0800000000000000
+      internalID: -5032266788060295188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_117
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 19
+        width: 330
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc87c3dc2e68d090800000000000000
+      internalID: -8009530798467740424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_118
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a721b30433eeb10800000000000000
+      internalID: 2012602434443180689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_119
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 37
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221d62ae44842dea0800000000000000
+      internalID: -5849533505177464542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_120
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 26
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e38b044e4fe1480800000000000000
+      internalID: -8926428150226207169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_chupacabras_121
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7edb93fd2b0449a0800000000000000
+      internalID: -6249858090894893441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_sheet_chupacabras_0: -8081697917217188095
+      sprite_sheet_chupacabras_1: -1673775950073796004
+      sprite_sheet_chupacabras_10: -5442392924665510713
+      sprite_sheet_chupacabras_100: 5053050391848341839
+      sprite_sheet_chupacabras_101: 3833072927055093090
+      sprite_sheet_chupacabras_102: 8398822769128644763
+      sprite_sheet_chupacabras_103: -7086462511700551478
+      sprite_sheet_chupacabras_104: 7049168468998336803
+      sprite_sheet_chupacabras_105: 5766549459764519384
+      sprite_sheet_chupacabras_106: 1673326429078945702
+      sprite_sheet_chupacabras_107: -4909919182882077146
+      sprite_sheet_chupacabras_108: -344286911290005898
+      sprite_sheet_chupacabras_109: 7830851613738897323
+      sprite_sheet_chupacabras_11: -2448897786991149606
+      sprite_sheet_chupacabras_110: 925029362193877468
+      sprite_sheet_chupacabras_111: -3794622758723910129
+      sprite_sheet_chupacabras_112: -902959359670119904
+      sprite_sheet_chupacabras_113: 5934589768948268379
+      sprite_sheet_chupacabras_114: 5441428425809934965
+      sprite_sheet_chupacabras_115: 3553425370576284810
+      sprite_sheet_chupacabras_116: -5032266788060295188
+      sprite_sheet_chupacabras_117: -8009530798467740424
+      sprite_sheet_chupacabras_118: 2012602434443180689
+      sprite_sheet_chupacabras_119: -5849533505177464542
+      sprite_sheet_chupacabras_12: 2052294134967968843
+      sprite_sheet_chupacabras_120: -8926428150226207169
+      sprite_sheet_chupacabras_121: -6249858090894893441
+      sprite_sheet_chupacabras_13: 5083044124874276148
+      sprite_sheet_chupacabras_14: 3991599096445619684
+      sprite_sheet_chupacabras_15: -3595230799130257417
+      sprite_sheet_chupacabras_16: 1500187360332460194
+      sprite_sheet_chupacabras_17: -4882677944553475985
+      sprite_sheet_chupacabras_18: 5730846453460495986
+      sprite_sheet_chupacabras_19: 9215078869690074455
+      sprite_sheet_chupacabras_2: 4372606831993619309
+      sprite_sheet_chupacabras_20: 8069681497945263803
+      sprite_sheet_chupacabras_21: 3287656493678129254
+      sprite_sheet_chupacabras_22: -3512985776423627238
+      sprite_sheet_chupacabras_23: -2281254399059666684
+      sprite_sheet_chupacabras_24: -2350070165488141269
+      sprite_sheet_chupacabras_25: -7260773814431803874
+      sprite_sheet_chupacabras_26: 8863521277364388617
+      sprite_sheet_chupacabras_27: -4230697588170912448
+      sprite_sheet_chupacabras_28: 8353589999539810208
+      sprite_sheet_chupacabras_29: 7046299805435841557
+      sprite_sheet_chupacabras_3: 2510390186271741348
+      sprite_sheet_chupacabras_30: -3984539124664130714
+      sprite_sheet_chupacabras_31: -3927422627496837007
+      sprite_sheet_chupacabras_32: -4018422081240480922
+      sprite_sheet_chupacabras_33: -5304782067305132393
+      sprite_sheet_chupacabras_34: -6009152391776426881
+      sprite_sheet_chupacabras_35: 8144924317749390060
+      sprite_sheet_chupacabras_36: 7845194107754969332
+      sprite_sheet_chupacabras_37: -6131256212343999864
+      sprite_sheet_chupacabras_38: 4008963208576886460
+      sprite_sheet_chupacabras_39: 9072214979148633113
+      sprite_sheet_chupacabras_4: -6286445563704686433
+      sprite_sheet_chupacabras_40: 6941258827365754303
+      sprite_sheet_chupacabras_41: 414990556178347093
+      sprite_sheet_chupacabras_42: -2656387995295803665
+      sprite_sheet_chupacabras_43: 5066907610425837938
+      sprite_sheet_chupacabras_44: -9045248374919841158
+      sprite_sheet_chupacabras_45: 5210219384591362748
+      sprite_sheet_chupacabras_46: 7233860060617628283
+      sprite_sheet_chupacabras_47: -7333314493256098229
+      sprite_sheet_chupacabras_48: -8104401064982787966
+      sprite_sheet_chupacabras_49: -3512130900298965512
+      sprite_sheet_chupacabras_5: -814581134693319488
+      sprite_sheet_chupacabras_50: 6515279151504340775
+      sprite_sheet_chupacabras_51: 3052565270243288905
+      sprite_sheet_chupacabras_52: 5781314717075421811
+      sprite_sheet_chupacabras_53: -3856199774041081935
+      sprite_sheet_chupacabras_54: -963939923946578612
+      sprite_sheet_chupacabras_55: 827414129650437395
+      sprite_sheet_chupacabras_56: -7245449064393234582
+      sprite_sheet_chupacabras_57: -5070479355240492870
+      sprite_sheet_chupacabras_58: -2721448524667204260
+      sprite_sheet_chupacabras_59: -2010150493226349174
+      sprite_sheet_chupacabras_6: 2846832694913797820
+      sprite_sheet_chupacabras_60: -2535812280527911085
+      sprite_sheet_chupacabras_61: 6707625707773377762
+      sprite_sheet_chupacabras_62: 549480128184667899
+      sprite_sheet_chupacabras_63: 2970710591790149212
+      sprite_sheet_chupacabras_64: 8332484292515045351
+      sprite_sheet_chupacabras_65: 3993294268039922215
+      sprite_sheet_chupacabras_66: -7652443073426595608
+      sprite_sheet_chupacabras_67: 9188088140176166699
+      sprite_sheet_chupacabras_68: 7733211920718414470
+      sprite_sheet_chupacabras_69: 9008499437147392762
+      sprite_sheet_chupacabras_7: -7177289894984772298
+      sprite_sheet_chupacabras_70: -9115977082028674470
+      sprite_sheet_chupacabras_71: -2362027010232276437
+      sprite_sheet_chupacabras_72: 4106413459168411353
+      sprite_sheet_chupacabras_73: 14551532027896030
+      sprite_sheet_chupacabras_74: 3760254227349229944
+      sprite_sheet_chupacabras_75: -2903161787286114956
+      sprite_sheet_chupacabras_76: -6947635853429042789
+      sprite_sheet_chupacabras_77: 3525303939404042446
+      sprite_sheet_chupacabras_78: -7219931026752844939
+      sprite_sheet_chupacabras_79: 3013883812309624656
+      sprite_sheet_chupacabras_8: 2292901680218990318
+      sprite_sheet_chupacabras_80: -4932500249336456026
+      sprite_sheet_chupacabras_81: 8538931469686455081
+      sprite_sheet_chupacabras_82: -4971083688219923678
+      sprite_sheet_chupacabras_83: 6978085734978059115
+      sprite_sheet_chupacabras_84: 2194157592652177953
+      sprite_sheet_chupacabras_85: 8773824297521205018
+      sprite_sheet_chupacabras_86: 2713774313250030109
+      sprite_sheet_chupacabras_87: -5215285597944014698
+      sprite_sheet_chupacabras_88: 7171062463136362623
+      sprite_sheet_chupacabras_89: -5364066027546105606
+      sprite_sheet_chupacabras_9: -6722967376735533628
+      sprite_sheet_chupacabras_90: -5967595752533379481
+      sprite_sheet_chupacabras_91: 7159636440141208347
+      sprite_sheet_chupacabras_92: -6748855937001495619
+      sprite_sheet_chupacabras_93: -5876891117761801079
+      sprite_sheet_chupacabras_94: -3527563721977146104
+      sprite_sheet_chupacabras_95: -4805544479107980995
+      sprite_sheet_chupacabras_96: -4321308004562121351
+      sprite_sheet_chupacabras_97: 6294688857311854970
+      sprite_sheet_chupacabras_98: 5679262213101296508
+      sprite_sheet_chupacabras_99: -8635563045269293785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
