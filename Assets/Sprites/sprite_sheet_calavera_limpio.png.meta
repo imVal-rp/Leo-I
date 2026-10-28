@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 414c32a511eb8b342bf4681f0ec21e46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8453030477106074733
+    second: sprite_sheet_calavera_limpio_0
+  - first:
+      213: 5236084305956805481
+    second: sprite_sheet_calavera_limpio_1
+  - first:
+      213: 5853468770481867437
+    second: sprite_sheet_calavera_limpio_2
+  - first:
+      213: 7151167512324027269
+    second: sprite_sheet_calavera_limpio_3
+  - first:
+      213: -5705992616782167470
+    second: sprite_sheet_calavera_limpio_4
+  - first:
+      213: 1149816259327135794
+    second: sprite_sheet_calavera_limpio_5
+  - first:
+      213: 5624613676531465154
+    second: sprite_sheet_calavera_limpio_6
+  - first:
+      213: -5926962616109388815
+    second: sprite_sheet_calavera_limpio_7
+  - first:
+      213: -5514215477362733371
+    second: sprite_sheet_calavera_limpio_8
+  - first:
+      213: 6853404744049707568
+    second: sprite_sheet_calavera_limpio_9
+  - first:
+      213: -7585448927947618317
+    second: sprite_sheet_calavera_limpio_10
+  - first:
+      213: -4257487236425738374
+    second: sprite_sheet_calavera_limpio_11
+  - first:
+      213: 698929905530053413
+    second: sprite_sheet_calavera_limpio_12
+  - first:
+      213: 5892297186102570739
+    second: sprite_sheet_calavera_limpio_13
+  - first:
+      213: 444781167908824792
+    second: sprite_sheet_calavera_limpio_14
+  - first:
+      213: -2172323815456906307
+    second: sprite_sheet_calavera_limpio_15
+  - first:
+      213: 8904249950841006468
+    second: sprite_sheet_calavera_limpio_16
+  - first:
+      213: -2053076450243000946
+    second: sprite_sheet_calavera_limpio_17
+  - first:
+      213: -7231103308132733880
+    second: sprite_sheet_calavera_limpio_18
+  - first:
+      213: 4117672552748270545
+    second: sprite_sheet_calavera_limpio_19
+  - first:
+      213: 2599752948860302956
+    second: sprite_sheet_calavera_limpio_20
+  - first:
+      213: 3005920537115830103
+    second: sprite_sheet_calavera_limpio_21
+  - first:
+      213: -3916139735327354146
+    second: sprite_sheet_calavera_limpio_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1076
+        width: 206
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39baa80319dc0ba80800000000000000
+      internalID: -8453030477106074733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1076
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa0a6075d2bb3150800000000000000
+      internalID: 5853468770481867437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1070
+        width: 205
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5833365c6fc0e3360800000000000000
+      internalID: 7151167512324027269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 816
+        width: 144
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f780d3b3621bb690800000000000000
+      internalID: -7585448927947618317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 816
+        width: 144
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7795156aed5ae4c0800000000000000
+      internalID: -4257487236425738374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 816
+        width: 145
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5232406cb0913b900800000000000000
+      internalID: 698929905530053413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_13
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 816
+        width: 154
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe6da07215a5c150800000000000000
+      internalID: 5892297186102570739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 537
+        width: 146
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d62dfb9d1e2c2600800000000000000
+      internalID: 444781167908824792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 537
+        width: 211
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3e192dffa5ad1e0800000000000000
+      internalID: -2172323815456906307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_16
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 537
+        width: 206
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ea2f4720429b70800000000000000
+      internalID: 8904249950841006468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 254
+        width: 199
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85cb8e98d10283e0800000000000000
+      internalID: -2053076450243000946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ca8907ad5f5ab90800000000000000
+      internalID: -7231103308132733880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 221
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66b79c688d241420800000000000000
+      internalID: 2599752948860302956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_calavera_limpio_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7
+        width: 245
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed25509c8a317a9c0800000000000000
+      internalID: -3916139735327354146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 056ef350987b86040a63ad4c7a0d5cea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_sheet_calavera_limpio_0: -8453030477106074733
+      sprite_sheet_calavera_limpio_1: 5236084305956805481
+      sprite_sheet_calavera_limpio_10: -7585448927947618317
+      sprite_sheet_calavera_limpio_11: -4257487236425738374
+      sprite_sheet_calavera_limpio_12: 698929905530053413
+      sprite_sheet_calavera_limpio_13: 5892297186102570739
+      sprite_sheet_calavera_limpio_14: 444781167908824792
+      sprite_sheet_calavera_limpio_15: -2172323815456906307
+      sprite_sheet_calavera_limpio_16: 8904249950841006468
+      sprite_sheet_calavera_limpio_17: -2053076450243000946
+      sprite_sheet_calavera_limpio_18: -7231103308132733880
+      sprite_sheet_calavera_limpio_19: 4117672552748270545
+      sprite_sheet_calavera_limpio_2: 5853468770481867437
+      sprite_sheet_calavera_limpio_20: 2599752948860302956
+      sprite_sheet_calavera_limpio_21: 3005920537115830103
+      sprite_sheet_calavera_limpio_22: -3916139735327354146
+      sprite_sheet_calavera_limpio_3: 7151167512324027269
+      sprite_sheet_calavera_limpio_4: -5705992616782167470
+      sprite_sheet_calavera_limpio_5: 1149816259327135794
+      sprite_sheet_calavera_limpio_6: 5624613676531465154
+      sprite_sheet_calavera_limpio_7: -5926962616109388815
+      sprite_sheet_calavera_limpio_8: -5514215477362733371
+      sprite_sheet_calavera_limpio_9: 6853404744049707568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

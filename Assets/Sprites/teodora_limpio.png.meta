@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: d194a506ef3f90145b9d7f8cbe86cee4
+guid: 1a0b2727204fa5d45865e7aca8d613c5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4360646884046635834
-    second: sprite_sheet_leo_0
+      213: 5376051181945064431
+    second: teodora_limpio_0
+  - first:
+      213: -5305263972899793390
+    second: teodora_limpio_1
+  - first:
+      213: 4092128643699979552
+    second: teodora_limpio_2
+  - first:
+      213: 6641125792785824395
+    second: teodora_limpio_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -98,30 +107,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite_sheet_leo_0
+      name: teodora_limpio_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 784
-        height: 1337
+        x: 32
+        y: 670
+        width: 307
+        height: 645
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +126,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a338382cc31248c30800000000000000
-      internalID: 4360646884046635834
+      spriteID: feb872201129b9a40800000000000000
+      internalID: 5376051181945064431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teodora_limpio_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 670
+        width: 309
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21651af668aef56b0800000000000000
+      internalID: -5305263972899793390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teodora_limpio_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 22
+        width: 305
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02530f602592ac830800000000000000
+      internalID: 4092128643699979552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teodora_limpio_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 22
+        width: 305
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8afeabe8b40a2c50800000000000000
+      internalID: 6641125792785824395
       vertices: []
       indices: 
       edges: []
@@ -150,7 +212,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sprite_sheet_leo_0: 4360646884046635834
+      teodora_limpio_0: 5376051181945064431
+      teodora_limpio_1: -5305263972899793390
+      teodora_limpio_2: 4092128643699979552
+      teodora_limpio_3: 6641125792785824395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

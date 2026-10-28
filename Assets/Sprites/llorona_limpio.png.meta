@@ -1,0 +1,913 @@
+fileFormatVersion: 2
+guid: 95e1040cd717c0e4981eabcc6d08ae3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 651629297850176903
+    second: llorona_limpio_0
+  - first:
+      213: -3803610232127645274
+    second: llorona_limpio_1
+  - first:
+      213: -2254379006795906482
+    second: llorona_limpio_2
+  - first:
+      213: -3770510082941161933
+    second: llorona_limpio_3
+  - first:
+      213: -520851728237927841
+    second: llorona_limpio_4
+  - first:
+      213: 4423638791027570132
+    second: llorona_limpio_5
+  - first:
+      213: -8282973026991151932
+    second: llorona_limpio_6
+  - first:
+      213: -3793307113396190944
+    second: llorona_limpio_7
+  - first:
+      213: 3199487997714612872
+    second: llorona_limpio_8
+  - first:
+      213: 7096609237830284689
+    second: llorona_limpio_9
+  - first:
+      213: -2077974714066383315
+    second: llorona_limpio_10
+  - first:
+      213: -7990874706354042006
+    second: llorona_limpio_11
+  - first:
+      213: -3611587924732842685
+    second: llorona_limpio_12
+  - first:
+      213: -1265557534819495334
+    second: llorona_limpio_13
+  - first:
+      213: 8773061660079188186
+    second: llorona_limpio_14
+  - first:
+      213: 245977834153959280
+    second: llorona_limpio_15
+  - first:
+      213: -2113001850076296096
+    second: llorona_limpio_16
+  - first:
+      213: 6784752803273568909
+    second: llorona_limpio_17
+  - first:
+      213: -7995391734809464618
+    second: llorona_limpio_18
+  - first:
+      213: 2011005028757358845
+    second: llorona_limpio_19
+  - first:
+      213: -2709655149898107462
+    second: llorona_limpio_20
+  - first:
+      213: -5730137022920193819
+    second: llorona_limpio_21
+  - first:
+      213: -6929730393111879495
+    second: llorona_limpio_22
+  - first:
+      213: 6096166686193081036
+    second: llorona_limpio_23
+  - first:
+      213: 1679104469408376833
+    second: llorona_limpio_24
+  - first:
+      213: -5605491323946384795
+    second: llorona_limpio_25
+  - first:
+      213: -6006088780269381581
+    second: llorona_limpio_26
+  - first:
+      213: 6135308792432461768
+    second: llorona_limpio_27
+  - first:
+      213: 1256392042266313784
+    second: llorona_limpio_28
+  - first:
+      213: -5116588760325150099
+    second: llorona_limpio_29
+  - first:
+      213: -5615346533084337272
+    second: llorona_limpio_30
+  - first:
+      213: 5477427056365077231
+    second: llorona_limpio_31
+  - first:
+      213: -5509442334584625536
+    second: llorona_limpio_32
+  - first:
+      213: 5997448743995340097
+    second: llorona_limpio_33
+  - first:
+      213: 5802166471708401569
+    second: llorona_limpio_34
+  - first:
+      213: -368936834537875189
+    second: llorona_limpio_35
+  - first:
+      213: -647338711705891981
+    second: llorona_limpio_36
+  - first:
+      213: -4596221893422674123
+    second: llorona_limpio_37
+  - first:
+      213: -7469377053845617149
+    second: llorona_limpio_38
+  - first:
+      213: -7880896077021942750
+    second: llorona_limpio_39
+  - first:
+      213: -5637464972933500021
+    second: llorona_limpio_40
+  - first:
+      213: 4000061491785213428
+    second: llorona_limpio_41
+  - first:
+      213: 7623556200742394813
+    second: llorona_limpio_42
+  - first:
+      213: -6580823475904737234
+    second: llorona_limpio_43
+  - first:
+      213: -5526721367035694477
+    second: llorona_limpio_44
+  - first:
+      213: -5251669140113817389
+    second: llorona_limpio_45
+  - first:
+      213: 1318378135303618002
+    second: llorona_limpio_46
+  - first:
+      213: -7709020584749709158
+    second: llorona_limpio_47
+  - first:
+      213: -5779500226842004186
+    second: llorona_limpio_48
+  - first:
+      213: 1401310617386595646
+    second: llorona_limpio_49
+  - first:
+      213: 5496085366716747766
+    second: llorona_limpio_50
+  - first:
+      213: -6379945999234189747
+    second: llorona_limpio_51
+  - first:
+      213: -5989446632795129442
+    second: llorona_limpio_52
+  - first:
+      213: 1816977966330569461
+    second: llorona_limpio_53
+  - first:
+      213: 365824756692357122
+    second: llorona_limpio_54
+  - first:
+      213: -2162539587837365212
+    second: llorona_limpio_55
+  - first:
+      213: -4070455130261763381
+    second: llorona_limpio_56
+  - first:
+      213: -5203851683419497076
+    second: llorona_limpio_57
+  - first:
+      213: -5102922268392890901
+    second: llorona_limpio_58
+  - first:
+      213: 6165632141529136012
+    second: llorona_limpio_59
+  - first:
+      213: 7213403252317547622
+    second: llorona_limpio_60
+  - first:
+      213: 6149616215079851579
+    second: llorona_limpio_61
+  - first:
+      213: -7059404963617682095
+    second: llorona_limpio_62
+  - first:
+      213: 8889742435222823751
+    second: llorona_limpio_63
+  - first:
+      213: 8294188642928251995
+    second: llorona_limpio_64
+  - first:
+      213: -7327966340591570122
+    second: llorona_limpio_65
+  - first:
+      213: 1505268453922219159
+    second: llorona_limpio_66
+  - first:
+      213: -7998885472645874976
+    second: llorona_limpio_67
+  - first:
+      213: -2016645076658950257
+    second: llorona_limpio_68
+  - first:
+      213: 5371581123877294065
+    second: llorona_limpio_69
+  - first:
+      213: -7669461411762609365
+    second: llorona_limpio_70
+  - first:
+      213: -8533882203830167063
+    second: llorona_limpio_71
+  - first:
+      213: 2482860079988185238
+    second: llorona_limpio_72
+  - first:
+      213: 5743511203442954424
+    second: llorona_limpio_73
+  - first:
+      213: -1107463615930306969
+    second: llorona_limpio_74
+  - first:
+      213: -791144618178876262
+    second: llorona_limpio_75
+  - first:
+      213: -7442641926222252703
+    second: llorona_limpio_76
+  - first:
+      213: -8184186314490035699
+    second: llorona_limpio_77
+  - first:
+      213: -4825862577300628842
+    second: llorona_limpio_78
+  - first:
+      213: 317910516879181134
+    second: llorona_limpio_79
+  - first:
+      213: 3902658158557882144
+    second: llorona_limpio_80
+  - first:
+      213: -331783627229945840
+    second: llorona_limpio_81
+  - first:
+      213: 104210372972643041
+    second: llorona_limpio_82
+  - first:
+      213: 6085918233132788274
+    second: llorona_limpio_83
+  - first:
+      213: -8916383991490645692
+    second: llorona_limpio_84
+  - first:
+      213: -1248327836596162919
+    second: llorona_limpio_85
+  - first:
+      213: -1477128577305071620
+    second: llorona_limpio_86
+  - first:
+      213: -7096471526915285617
+    second: llorona_limpio_87
+  - first:
+      213: -5654057480529831461
+    second: llorona_limpio_88
+  - first:
+      213: -7112851407946879745
+    second: llorona_limpio_89
+  - first:
+      213: -3191079549025772560
+    second: llorona_limpio_90
+  - first:
+      213: 2451287834973871137
+    second: llorona_limpio_91
+  - first:
+      213: 1352245472254832746
+    second: llorona_limpio_92
+  - first:
+      213: -4411564587934503063
+    second: llorona_limpio_93
+  - first:
+      213: -7746400029361260992
+    second: llorona_limpio_94
+  - first:
+      213: 33260059196844022
+    second: llorona_limpio_95
+  - first:
+      213: -3602837644427247155
+    second: llorona_limpio_96
+  - first:
+      213: 1844446979409747286
+    second: llorona_limpio_97
+  - first:
+      213: -337297423193280885
+    second: llorona_limpio_98
+  - first:
+      213: -2811576785267469135
+    second: llorona_limpio_99
+  - first:
+      213: -6851559319209408804
+    second: llorona_limpio_100
+  - first:
+      213: 5471906044037844356
+    second: llorona_limpio_101
+  - first:
+      213: 7015500939233074124
+    second: llorona_limpio_102
+  - first:
+      213: 4909071412702612273
+    second: llorona_limpio_103
+  - first:
+      213: -4710649210973194535
+    second: llorona_limpio_104
+  - first:
+      213: -7055906134753528675
+    second: llorona_limpio_105
+  - first:
+      213: -3760849381064196964
+    second: llorona_limpio_106
+  - first:
+      213: -607970769616697373
+    second: llorona_limpio_107
+  - first:
+      213: -9048867442975154008
+    second: llorona_limpio_108
+  - first:
+      213: 3293779797659795543
+    second: llorona_limpio_109
+  - first:
+      213: -4666756578921648565
+    second: llorona_limpio_110
+  - first:
+      213: -8800717532413667268
+    second: llorona_limpio_111
+  - first:
+      213: -2398100699400773940
+    second: llorona_limpio_112
+  - first:
+      213: 4179381167971555180
+    second: llorona_limpio_113
+  - first:
+      213: 5717967898445733971
+    second: llorona_limpio_114
+  - first:
+      213: 2901921359264282684
+    second: llorona_limpio_115
+  - first:
+      213: 2153685973697059650
+    second: llorona_limpio_116
+  - first:
+      213: -6075693328858822970
+    second: llorona_limpio_117
+  - first:
+      213: -6086520467779985554
+    second: llorona_limpio_118
+  - first:
+      213: 2338659307044406249
+    second: llorona_limpio_119
+  - first:
+      213: -8436763100652890561
+    second: llorona_limpio_120
+  - first:
+      213: -163376592713711674
+    second: llorona_limpio_121
+  - first:
+      213: 3498321449338287217
+    second: llorona_limpio_122
+  - first:
+      213: -5223131525585164973
+    second: llorona_limpio_123
+  - first:
+      213: -885027940860309116
+    second: llorona_limpio_124
+  - first:
+      213: 4228803798912012385
+    second: llorona_limpio_125
+  - first:
+      213: -7976064389987862170
+    second: llorona_limpio_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: llorona_limpio_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 990
+        width: 140
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d897d46d0b0900800000000000000
+      internalID: 651629297850176903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 996
+        width: 129
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a99df175acd63bc0800000000000000
+      internalID: -3803610232127645274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 990
+        width: 141
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52eabddc1095c8f0800000000000000
+      internalID: -520851728237927841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 990
+        width: 141
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ec02cae7fc0d80800000000000000
+      internalID: -8282973026991151932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 672
+        width: 172
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c8574330c1da2e0800000000000000
+      internalID: -2113001850076296096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 672
+        width: 196
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82f4f73ab8482e50800000000000000
+      internalID: 6784752803273568909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 672
+        width: 170
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df84b9c3b6688eb10800000000000000
+      internalID: 2011005028757358845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_20
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 672
+        width: 143
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5f38e5ffe556ad0800000000000000
+      internalID: -2709655149898107462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 339
+        width: 177
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8078abcb67a70b0800000000000000
+      internalID: -5730137022920193819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 149
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0a6593ce6a4df90800000000000000
+      internalID: -6929730393111879495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 155
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccadb1e5d4fe99450800000000000000
+      internalID: 6096166686193081036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 5
+        width: 160
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20011b09daba31500800000000000000
+      internalID: 365824756692357122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llorona_limpio_99
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 151
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4d5676fc54bf8d0800000000000000
+      internalID: -2811576785267469135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f79f1c4e484f06c41a76ce8071bdcd8b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      llorona_limpio_0: 651629297850176903
+      llorona_limpio_1: -3803610232127645274
+      llorona_limpio_10: -2077974714066383315
+      llorona_limpio_100: -6851559319209408804
+      llorona_limpio_101: 5471906044037844356
+      llorona_limpio_102: 7015500939233074124
+      llorona_limpio_103: 4909071412702612273
+      llorona_limpio_104: -4710649210973194535
+      llorona_limpio_105: -7055906134753528675
+      llorona_limpio_106: -3760849381064196964
+      llorona_limpio_107: -607970769616697373
+      llorona_limpio_108: -9048867442975154008
+      llorona_limpio_109: 3293779797659795543
+      llorona_limpio_11: -7990874706354042006
+      llorona_limpio_110: -4666756578921648565
+      llorona_limpio_111: -8800717532413667268
+      llorona_limpio_112: -2398100699400773940
+      llorona_limpio_113: 4179381167971555180
+      llorona_limpio_114: 5717967898445733971
+      llorona_limpio_115: 2901921359264282684
+      llorona_limpio_116: 2153685973697059650
+      llorona_limpio_117: -6075693328858822970
+      llorona_limpio_118: -6086520467779985554
+      llorona_limpio_119: 2338659307044406249
+      llorona_limpio_12: -3611587924732842685
+      llorona_limpio_120: -8436763100652890561
+      llorona_limpio_121: -163376592713711674
+      llorona_limpio_122: 3498321449338287217
+      llorona_limpio_123: -5223131525585164973
+      llorona_limpio_124: -885027940860309116
+      llorona_limpio_125: 4228803798912012385
+      llorona_limpio_126: -7976064389987862170
+      llorona_limpio_13: -1265557534819495334
+      llorona_limpio_14: 8773061660079188186
+      llorona_limpio_15: 245977834153959280
+      llorona_limpio_16: -2113001850076296096
+      llorona_limpio_17: 6784752803273568909
+      llorona_limpio_18: -7995391734809464618
+      llorona_limpio_19: 2011005028757358845
+      llorona_limpio_2: -2254379006795906482
+      llorona_limpio_20: -2709655149898107462
+      llorona_limpio_21: -5730137022920193819
+      llorona_limpio_22: -6929730393111879495
+      llorona_limpio_23: 6096166686193081036
+      llorona_limpio_24: 1679104469408376833
+      llorona_limpio_25: -5605491323946384795
+      llorona_limpio_26: -6006088780269381581
+      llorona_limpio_27: 6135308792432461768
+      llorona_limpio_28: 1256392042266313784
+      llorona_limpio_29: -5116588760325150099
+      llorona_limpio_3: -3770510082941161933
+      llorona_limpio_30: -5615346533084337272
+      llorona_limpio_31: 5477427056365077231
+      llorona_limpio_32: -5509442334584625536
+      llorona_limpio_33: 5997448743995340097
+      llorona_limpio_34: 5802166471708401569
+      llorona_limpio_35: -368936834537875189
+      llorona_limpio_36: -647338711705891981
+      llorona_limpio_37: -4596221893422674123
+      llorona_limpio_38: -7469377053845617149
+      llorona_limpio_39: -7880896077021942750
+      llorona_limpio_4: -520851728237927841
+      llorona_limpio_40: -5637464972933500021
+      llorona_limpio_41: 4000061491785213428
+      llorona_limpio_42: 7623556200742394813
+      llorona_limpio_43: -6580823475904737234
+      llorona_limpio_44: -5526721367035694477
+      llorona_limpio_45: -5251669140113817389
+      llorona_limpio_46: 1318378135303618002
+      llorona_limpio_47: -7709020584749709158
+      llorona_limpio_48: -5779500226842004186
+      llorona_limpio_49: 1401310617386595646
+      llorona_limpio_5: 4423638791027570132
+      llorona_limpio_50: 5496085366716747766
+      llorona_limpio_51: -6379945999234189747
+      llorona_limpio_52: -5989446632795129442
+      llorona_limpio_53: 1816977966330569461
+      llorona_limpio_54: 365824756692357122
+      llorona_limpio_55: -2162539587837365212
+      llorona_limpio_56: -4070455130261763381
+      llorona_limpio_57: -5203851683419497076
+      llorona_limpio_58: -5102922268392890901
+      llorona_limpio_59: 6165632141529136012
+      llorona_limpio_6: -8282973026991151932
+      llorona_limpio_60: 7213403252317547622
+      llorona_limpio_61: 6149616215079851579
+      llorona_limpio_62: -7059404963617682095
+      llorona_limpio_63: 8889742435222823751
+      llorona_limpio_64: 8294188642928251995
+      llorona_limpio_65: -7327966340591570122
+      llorona_limpio_66: 1505268453922219159
+      llorona_limpio_67: -7998885472645874976
+      llorona_limpio_68: -2016645076658950257
+      llorona_limpio_69: 5371581123877294065
+      llorona_limpio_7: -3793307113396190944
+      llorona_limpio_70: -7669461411762609365
+      llorona_limpio_71: -8533882203830167063
+      llorona_limpio_72: 2482860079988185238
+      llorona_limpio_73: 5743511203442954424
+      llorona_limpio_74: -1107463615930306969
+      llorona_limpio_75: -791144618178876262
+      llorona_limpio_76: -7442641926222252703
+      llorona_limpio_77: -8184186314490035699
+      llorona_limpio_78: -4825862577300628842
+      llorona_limpio_79: 317910516879181134
+      llorona_limpio_8: 3199487997714612872
+      llorona_limpio_80: 3902658158557882144
+      llorona_limpio_81: -331783627229945840
+      llorona_limpio_82: 104210372972643041
+      llorona_limpio_83: 6085918233132788274
+      llorona_limpio_84: -8916383991490645692
+      llorona_limpio_85: -1248327836596162919
+      llorona_limpio_86: -1477128577305071620
+      llorona_limpio_87: -7096471526915285617
+      llorona_limpio_88: -5654057480529831461
+      llorona_limpio_89: -7112851407946879745
+      llorona_limpio_9: 7096609237830284689
+      llorona_limpio_90: -3191079549025772560
+      llorona_limpio_91: 2451287834973871137
+      llorona_limpio_92: 1352245472254832746
+      llorona_limpio_93: -4411564587934503063
+      llorona_limpio_94: -7746400029361260992
+      llorona_limpio_95: 33260059196844022
+      llorona_limpio_96: -3602837644427247155
+      llorona_limpio_97: 1844446979409747286
+      llorona_limpio_98: -337297423193280885
+      llorona_limpio_99: -2811576785267469135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

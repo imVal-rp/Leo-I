@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: b663032fa8b64aa4c8a8dc6bee7cf550
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8619347532703550189
+    second: chupacabras_limpio_0
+  - first:
+      213: -788482304541895070
+    second: chupacabras_limpio_1
+  - first:
+      213: 2698597906906325242
+    second: chupacabras_limpio_2
+  - first:
+      213: -3490971166356361034
+    second: chupacabras_limpio_3
+  - first:
+      213: -9176010991093973946
+    second: chupacabras_limpio_4
+  - first:
+      213: 7455819055155217119
+    second: chupacabras_limpio_5
+  - first:
+      213: -1824865484694181110
+    second: chupacabras_limpio_6
+  - first:
+      213: -1547107862961256082
+    second: chupacabras_limpio_7
+  - first:
+      213: -3471231392971886520
+    second: chupacabras_limpio_8
+  - first:
+      213: -4116486120671082920
+    second: chupacabras_limpio_9
+  - first:
+      213: -5946191188501836851
+    second: chupacabras_limpio_10
+  - first:
+      213: -1620247351312720561
+    second: chupacabras_limpio_11
+  - first:
+      213: 5814907229635930699
+    second: chupacabras_limpio_12
+  - first:
+      213: -4734203497293541617
+    second: chupacabras_limpio_13
+  - first:
+      213: 2269473786973174884
+    second: chupacabras_limpio_14
+  - first:
+      213: 698509075956197351
+    second: chupacabras_limpio_15
+  - first:
+      213: -2880040996409576887
+    second: chupacabras_limpio_16
+  - first:
+      213: -1210365151482098031
+    second: chupacabras_limpio_17
+  - first:
+      213: -5558305012286527498
+    second: chupacabras_limpio_18
+  - first:
+      213: -3105979335341728771
+    second: chupacabras_limpio_19
+  - first:
+      213: -9753914099937355
+    second: chupacabras_limpio_20
+  - first:
+      213: 4791778706877618117
+    second: chupacabras_limpio_21
+  - first:
+      213: -1920722894135085237
+    second: chupacabras_limpio_22
+  - first:
+      213: 2254230535702490923
+    second: chupacabras_limpio_23
+  - first:
+      213: 7486492228876643407
+    second: chupacabras_limpio_24
+  - first:
+      213: -9044148113179819651
+    second: chupacabras_limpio_25
+  - first:
+      213: -6367178030574613395
+    second: chupacabras_limpio_26
+  - first:
+      213: -8045666655604092800
+    second: chupacabras_limpio_27
+  - first:
+      213: 2194934144871352757
+    second: chupacabras_limpio_28
+  - first:
+      213: 5926427064848481992
+    second: chupacabras_limpio_29
+  - first:
+      213: -2593340774244542752
+    second: chupacabras_limpio_30
+  - first:
+      213: -2590488907399656319
+    second: chupacabras_limpio_31
+  - first:
+      213: 7956156530375852493
+    second: chupacabras_limpio_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chupacabras_limpio_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1345
+        width: 261
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315b095161de16880800000000000000
+      internalID: -8619347532703550189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1346
+        width: 262
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2665916858fbe05f0800000000000000
+      internalID: -788482304541895070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 911
+        width: 298
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0a3c0af78537520800000000000000
+      internalID: 2698597906906325242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 911
+        width: 308
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0b23c58349d8fc0800000000000000
+      internalID: -3490971166356361034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 912
+        width: 306
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c73c4ce9248a080800000000000000
+      internalID: -9176010991093973946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_5
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 913
+        width: 298
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd28d149de3687760800000000000000
+      internalID: 7455819055155217119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 461
+        width: 303
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0baeed9286cca6e0800000000000000
+      internalID: -1824865484694181110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_7
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 462
+        width: 521
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e690bf67891978ae0800000000000000
+      internalID: -1547107862961256082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_8
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 459
+        width: 491
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840f9b08075b3dfc0800000000000000
+      internalID: -3471231392971886520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_9
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 445
+        width: 354
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856039eeead4fd6c0800000000000000
+      internalID: -4116486120671082920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 388
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb4aca4e92ea7da0800000000000000
+      internalID: -5946191188501836851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_17
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 19
+        width: 531
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ec569be4be33fe0800000000000000
+      internalID: -1210365151482098031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_26
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 8
+        width: 530
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ccde1e05d33a7a0800000000000000
+      internalID: -6367178030574613395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chupacabras_limpio_28
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 19
+        width: 367
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9ce6ab9f8f57e10800000000000000
+      internalID: 2194934144871352757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 460c9ee9a25a7ea46bbe0063e7dad22f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chupacabras_limpio_0: -8619347532703550189
+      chupacabras_limpio_1: -788482304541895070
+      chupacabras_limpio_10: -5946191188501836851
+      chupacabras_limpio_11: -1620247351312720561
+      chupacabras_limpio_12: 5814907229635930699
+      chupacabras_limpio_13: -4734203497293541617
+      chupacabras_limpio_14: 2269473786973174884
+      chupacabras_limpio_15: 698509075956197351
+      chupacabras_limpio_16: -2880040996409576887
+      chupacabras_limpio_17: -1210365151482098031
+      chupacabras_limpio_18: -5558305012286527498
+      chupacabras_limpio_19: -3105979335341728771
+      chupacabras_limpio_2: 2698597906906325242
+      chupacabras_limpio_20: -9753914099937355
+      chupacabras_limpio_21: 4791778706877618117
+      chupacabras_limpio_22: -1920722894135085237
+      chupacabras_limpio_23: 2254230535702490923
+      chupacabras_limpio_24: 7486492228876643407
+      chupacabras_limpio_25: -9044148113179819651
+      chupacabras_limpio_26: -6367178030574613395
+      chupacabras_limpio_27: -8045666655604092800
+      chupacabras_limpio_28: 2194934144871352757
+      chupacabras_limpio_29: 5926427064848481992
+      chupacabras_limpio_3: -3490971166356361034
+      chupacabras_limpio_30: -2593340774244542752
+      chupacabras_limpio_31: -2590488907399656319
+      chupacabras_limpio_32: 7956156530375852493
+      chupacabras_limpio_4: -9176010991093973946
+      chupacabras_limpio_5: 7455819055155217119
+      chupacabras_limpio_6: -1824865484694181110
+      chupacabras_limpio_7: -1547107862961256082
+      chupacabras_limpio_8: -3471231392971886520
+      chupacabras_limpio_9: -4116486120671082920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

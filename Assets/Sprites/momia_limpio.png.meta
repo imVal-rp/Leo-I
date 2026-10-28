@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 9186e79f05a257a488ddb3d78a5d5314
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2740689906230898474
+    second: momia_limpio_0
+  - first:
+      213: 4610410146667357653
+    second: momia_limpio_1
+  - first:
+      213: -8232165033705080369
+    second: momia_limpio_2
+  - first:
+      213: -7795072435054784792
+    second: momia_limpio_3
+  - first:
+      213: -375274339883694179
+    second: momia_limpio_4
+  - first:
+      213: -7672715413238603761
+    second: momia_limpio_5
+  - first:
+      213: 8150639687760173294
+    second: momia_limpio_6
+  - first:
+      213: -1021187179097703580
+    second: momia_limpio_7
+  - first:
+      213: 8378704446079262236
+    second: momia_limpio_8
+  - first:
+      213: -4149784200057628206
+    second: momia_limpio_9
+  - first:
+      213: -4176271529623683050
+    second: momia_limpio_10
+  - first:
+      213: 3165878496998558206
+    second: momia_limpio_11
+  - first:
+      213: -2243010259726194487
+    second: momia_limpio_12
+  - first:
+      213: 4048086395969915380
+    second: momia_limpio_13
+  - first:
+      213: 6251472861084132101
+    second: momia_limpio_14
+  - first:
+      213: 8718587234835651247
+    second: momia_limpio_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: momia_limpio_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1065
+        width: 233
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5e6f4f9977bff30800000000000000
+      internalID: 4610410146667357653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1066
+        width: 202
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eece1e9be652d390800000000000000
+      internalID: -7795072435054784792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1067
+        width: 150
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97c9e5e9f1cacaf0800000000000000
+      internalID: -375274339883694179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 798
+        width: 143
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00af33cbf9058590800000000000000
+      internalID: -7672715413238603761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 798
+        width: 144
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee85521bc93ec1170800000000000000
+      internalID: 8150639687760173294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 798
+        width: 130
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bb2bccba304d1f0800000000000000
+      internalID: -1021187179097703580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 798
+        width: 173
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e5a8a2d43274470800000000000000
+      internalID: 8378704446079262236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 521
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9590da1410966c0800000000000000
+      internalID: -4149784200057628206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 520
+        width: 230
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610043fab27ea06c0800000000000000
+      internalID: -4176271529623683050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 521
+        width: 183
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef985af28b57feb20800000000000000
+      internalID: 3165878496998558206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 254
+        width: 196
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8a6718d0a3fd0e0800000000000000
+      internalID: -2243010259726194487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9c0e32121bd2830800000000000000
+      internalID: 4048086395969915380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 188
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5032ae70271b1c650800000000000000
+      internalID: 6251472861084132101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momia_limpio_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 255
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa52a3a5e4aef870800000000000000
+      internalID: 8718587234835651247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7f4707088937bd04ebde39eddb1e6752
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      momia_limpio_0: -2740689906230898474
+      momia_limpio_1: 4610410146667357653
+      momia_limpio_10: -4176271529623683050
+      momia_limpio_11: 3165878496998558206
+      momia_limpio_12: -2243010259726194487
+      momia_limpio_13: 4048086395969915380
+      momia_limpio_14: 6251472861084132101
+      momia_limpio_15: 8718587234835651247
+      momia_limpio_2: -8232165033705080369
+      momia_limpio_3: -7795072435054784792
+      momia_limpio_4: -375274339883694179
+      momia_limpio_5: -7672715413238603761
+      momia_limpio_6: 8150639687760173294
+      momia_limpio_7: -1021187179097703580
+      momia_limpio_8: 8378704446079262236
+      momia_limpio_9: -4149784200057628206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

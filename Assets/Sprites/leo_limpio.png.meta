@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 9a43e90d6bc47754bb051c98786d5797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1197293746218688630
+    second: leo_limpio_0
+  - first:
+      213: 978110403519287903
+    second: leo_limpio_1
+  - first:
+      213: -1278155827491957475
+    second: leo_limpio_2
+  - first:
+      213: -3263292112768115156
+    second: leo_limpio_3
+  - first:
+      213: -2297399524180866965
+    second: leo_limpio_4
+  - first:
+      213: 1173719536021517207
+    second: leo_limpio_5
+  - first:
+      213: -4374949514817147603
+    second: leo_limpio_6
+  - first:
+      213: -792618545854898736
+    second: leo_limpio_7
+  - first:
+      213: 6737178276137850648
+    second: leo_limpio_8
+  - first:
+      213: 4377311847038907934
+    second: leo_limpio_9
+  - first:
+      213: -7866266807519095465
+    second: leo_limpio_10
+  - first:
+      213: -8841136118636791509
+    second: leo_limpio_11
+  - first:
+      213: 4107961363513431533
+    second: leo_limpio_12
+  - first:
+      213: 4181400539932871985
+    second: leo_limpio_13
+  - first:
+      213: 7568437404427467653
+    second: leo_limpio_14
+  - first:
+      213: 1274182864873815774
+    second: leo_limpio_15
+  - first:
+      213: -8343660419121769989
+    second: leo_limpio_16
+  - first:
+      213: -4271758017072621914
+    second: leo_limpio_17
+  - first:
+      213: -9031261630898887010
+    second: leo_limpio_18
+  - first:
+      213: -4688211138933306856
+    second: leo_limpio_19
+  - first:
+      213: -1291291307305986382
+    second: leo_limpio_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leo_limpio_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1127
+        width: 100
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f96dc6eab526fe0800000000000000
+      internalID: -1197293746218688630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1127
+        width: 106
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5291e0da32f29d00800000000000000
+      internalID: 978110403519287903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 922
+        width: 108
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d151fbefb04134ee0800000000000000
+      internalID: -1278155827491957475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 922
+        width: 109
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e5f14fc1576b2d0800000000000000
+      internalID: -3263292112768115156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 922
+        width: 109
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b684c0e0e4ffd10e0800000000000000
+      internalID: -2297399524180866965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_5
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 922
+        width: 109
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793bf7a03b3e94010800000000000000
+      internalID: 1173719536021517207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 722
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d6e03889e0943c0800000000000000
+      internalID: -4374949514817147603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 721
+        width: 173
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817dca172f34f7d50800000000000000
+      internalID: 6737178276137850648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 722
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16fcd1dee55fbc30800000000000000
+      internalID: 4377311847038907934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_10
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 722
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755d06d040865d290800000000000000
+      internalID: -7866266807519095465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 545
+        width: 135
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2937cdda89fd4580800000000000000
+      internalID: -8841136118636791509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 355
+        width: 138
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de55f3f5819620930800000000000000
+      internalID: 4107961363513431533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 355
+        width: 172
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d435613a1570a30800000000000000
+      internalID: 4181400539932871985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 355
+        width: 183
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bbda358bd780960800000000000000
+      internalID: 7568437404427467653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_15
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 355
+        width: 186
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede71bf809ecea110800000000000000
+      internalID: 1274182864873815774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 168
+        width: 158
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf192cf2e0d553c80800000000000000
+      internalID: -8343660419121769989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 159
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a695f957baa7b4c0800000000000000
+      internalID: -4271758017072621914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 159
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9628a875638aa280800000000000000
+      internalID: -9031261630898887010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 168
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ac9dfeec020feb0800000000000000
+      internalID: -4688211138933306856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_limpio_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 175
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b61a76c569641ee0800000000000000
+      internalID: -1291291307305986382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c9bcca1fb5a483428e021660e2299e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leo_limpio_0: -1197293746218688630
+      leo_limpio_1: 978110403519287903
+      leo_limpio_10: -7866266807519095465
+      leo_limpio_11: -8841136118636791509
+      leo_limpio_12: 4107961363513431533
+      leo_limpio_13: 4181400539932871985
+      leo_limpio_14: 7568437404427467653
+      leo_limpio_15: 1274182864873815774
+      leo_limpio_16: -8343660419121769989
+      leo_limpio_17: -4271758017072621914
+      leo_limpio_18: -9031261630898887010
+      leo_limpio_19: -4688211138933306856
+      leo_limpio_2: -1278155827491957475
+      leo_limpio_20: -1291291307305986382
+      leo_limpio_3: -3263292112768115156
+      leo_limpio_4: -2297399524180866965
+      leo_limpio_5: 1173719536021517207
+      leo_limpio_6: -4374949514817147603
+      leo_limpio_7: -792618545854898736
+      leo_limpio_8: 6737178276137850648
+      leo_limpio_9: 4377311847038907934
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

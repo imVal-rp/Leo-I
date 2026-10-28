@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: 6c9a157219878094681b193a79543dba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3531430137518444330
+    second: nahuala_limpio_0
+  - first:
+      213: 1900312285166810212
+    second: nahuala_limpio_1
+  - first:
+      213: 2709486236355706309
+    second: nahuala_limpio_2
+  - first:
+      213: -3827763519011329332
+    second: nahuala_limpio_3
+  - first:
+      213: 278210865866997660
+    second: nahuala_limpio_4
+  - first:
+      213: -7188326293252763880
+    second: nahuala_limpio_5
+  - first:
+      213: 3056642895335303511
+    second: nahuala_limpio_6
+  - first:
+      213: -5315549869595293431
+    second: nahuala_limpio_7
+  - first:
+      213: -1591456440824018234
+    second: nahuala_limpio_8
+  - first:
+      213: 1328733152992690100
+    second: nahuala_limpio_9
+  - first:
+      213: 2402847825857260925
+    second: nahuala_limpio_10
+  - first:
+      213: 4811345819918831793
+    second: nahuala_limpio_11
+  - first:
+      213: -4123631318067584322
+    second: nahuala_limpio_12
+  - first:
+      213: 2264923787834057168
+    second: nahuala_limpio_13
+  - first:
+      213: -4935813936049610249
+    second: nahuala_limpio_14
+  - first:
+      213: -6729915639069713966
+    second: nahuala_limpio_15
+  - first:
+      213: 693341617905182016
+    second: nahuala_limpio_16
+  - first:
+      213: -4886585338286017650
+    second: nahuala_limpio_17
+  - first:
+      213: -1592054537025871587
+    second: nahuala_limpio_18
+  - first:
+      213: -5426455710727651304
+    second: nahuala_limpio_19
+  - first:
+      213: 4408843805249835768
+    second: nahuala_limpio_20
+  - first:
+      213: -5609532010949564328
+    second: nahuala_limpio_21
+  - first:
+      213: 7141425274116279713
+    second: nahuala_limpio_22
+  - first:
+      213: -8055624641948429342
+    second: nahuala_limpio_23
+  - first:
+      213: 149922568663611872
+    second: nahuala_limpio_24
+  - first:
+      213: -1884147618381144462
+    second: nahuala_limpio_25
+  - first:
+      213: -91649926928626885
+    second: nahuala_limpio_26
+  - first:
+      213: 3320066085962496534
+    second: nahuala_limpio_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nahuala_limpio_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1627
+        width: 226
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f45efeff8220130800000000000000
+      internalID: 3531430137518444330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_1
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1627
+        width: 226
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464bdaf74f34f5a10800000000000000
+      internalID: 1900312285166810212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1627
+        width: 234
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdbac160670a9520800000000000000
+      internalID: 2709486236355706309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_3
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1628
+        width: 248
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca612d1c5d01eac0800000000000000
+      internalID: -3827763519011329332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1217
+        width: 247
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ff7a8fe476cd300800000000000000
+      internalID: 278210865866997660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1217
+        width: 261
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f8119525fed3c90800000000000000
+      internalID: -7188326293252763880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_6
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1218
+        width: 323
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759aeadb4806b6a20800000000000000
+      internalID: 3056642895335303511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_7
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1217
+        width: 320
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90906ec7e8f5b36b0800000000000000
+      internalID: -5315549869595293431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 812
+        width: 220
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bff96143cb907210800000000000000
+      internalID: 1328733152992690100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 783
+        width: 229
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7daa85ed51a85120800000000000000
+      internalID: 2402847825857260925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_11
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 812
+        width: 440
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b092d7188555c240800000000000000
+      internalID: 4811345819918831793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_13
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 812
+        width: 424
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d16e295f20ae6f10800000000000000
+      internalID: 2264923787834057168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 407
+        width: 260
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f127505067708bb0800000000000000
+      internalID: -4935813936049610249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 408
+        width: 296
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d957e402698a92a0800000000000000
+      internalID: -6729915639069713966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 8
+        width: 208
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f21912f41c5f2d30800000000000000
+      internalID: 4408843805249835768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 8
+        width: 288
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8582b2b4b50f622b0800000000000000
+      internalID: -5609532010949564328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_22
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 9
+        width: 300
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad82bd23707b1360800000000000000
+      internalID: 7141425274116279713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_24
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 9
+        width: 260
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9320928c1a41200800000000000000
+      internalID: 149922568663611872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_limpio_27
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 8
+        width: 330
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61abd94c38e331e20800000000000000
+      internalID: 3320066085962496534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 884d8f48984bc084fbaccfc72537c750
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nahuala_limpio_0: 3531430137518444330
+      nahuala_limpio_1: 1900312285166810212
+      nahuala_limpio_10: 2402847825857260925
+      nahuala_limpio_11: 4811345819918831793
+      nahuala_limpio_12: -4123631318067584322
+      nahuala_limpio_13: 2264923787834057168
+      nahuala_limpio_14: -4935813936049610249
+      nahuala_limpio_15: -6729915639069713966
+      nahuala_limpio_16: 693341617905182016
+      nahuala_limpio_17: -4886585338286017650
+      nahuala_limpio_18: -1592054537025871587
+      nahuala_limpio_19: -5426455710727651304
+      nahuala_limpio_2: 2709486236355706309
+      nahuala_limpio_20: 4408843805249835768
+      nahuala_limpio_21: -5609532010949564328
+      nahuala_limpio_22: 7141425274116279713
+      nahuala_limpio_23: -8055624641948429342
+      nahuala_limpio_24: 149922568663611872
+      nahuala_limpio_25: -1884147618381144462
+      nahuala_limpio_26: -91649926928626885
+      nahuala_limpio_27: 3320066085962496534
+      nahuala_limpio_3: -3827763519011329332
+      nahuala_limpio_4: 278210865866997660
+      nahuala_limpio_5: -7188326293252763880
+      nahuala_limpio_6: 3056642895335303511
+      nahuala_limpio_7: -5315549869595293431
+      nahuala_limpio_8: -1591456440824018234
+      nahuala_limpio_9: 1328733152992690100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
