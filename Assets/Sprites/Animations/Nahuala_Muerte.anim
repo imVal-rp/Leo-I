@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Chupacabras_Caminar
+  m_Name: Nahuala_Muerte
   serializedVersion: 8
   m_Legacy: 0
   m_Compressed: 0
@@ -20,14 +20,20 @@ AnimationClip:
   m_PPtrCurves:
   - serializedVersion: 2
     curve:
-    - time: 0.016666668
-      value: {fileID: 2698597906906325242, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
-    - time: 0.11666667
-      value: {fileID: -3490971166356361034, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
-    - time: 0.2
-      value: {fileID: -9176010991093973946, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
-    - time: 0.3
-      value: {fileID: 7455819055155217119, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
+    - time: 0
+      value: {fileID: -3827763519011329332, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - time: 0.23333333
+      value: {fileID: -4935813936049610249, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - time: 0.48333332
+      value: {fileID: 4408843805249835768, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - time: 0.75
+      value: {fileID: -5609532010949564328, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - time: 0.98333335
+      value: {fileID: 7141425274116279713, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - time: 1.2333333
+      value: {fileID: 149922568663611872, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - time: 1.4666667
+      value: {fileID: 3320066085962496534, guid: 6c9a157219878094681b193a79543dba, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -51,16 +57,19 @@ AnimationClip:
       isSerializeReferenceCurve: 0
       metaData: 0
     pptrCurveMapping:
-    - {fileID: 2698597906906325242, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
-    - {fileID: -3490971166356361034, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
-    - {fileID: -9176010991093973946, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
-    - {fileID: 7455819055155217119, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
+    - {fileID: -3827763519011329332, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - {fileID: -4935813936049610249, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - {fileID: 4408843805249835768, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - {fileID: -5609532010949564328, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - {fileID: 7141425274116279713, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - {fileID: 149922568663611872, guid: 6c9a157219878094681b193a79543dba, type: 3}
+    - {fileID: 3320066085962496534, guid: 6c9a157219878094681b193a79543dba, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.3166667
+    m_StopTime: 1.4833333
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0

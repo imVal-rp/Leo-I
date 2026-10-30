@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: 53ec928fac3bddd4e9cb70aecdb1d38d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6557943902655086472
+    second: desert_house_exterior_01_0
+  - first:
+      213: -4103144879338191063
+    second: desert_house_exterior_01_1
+  - first:
+      213: 935148734428727003
+    second: desert_house_exterior_01_2
+  - first:
+      213: 3205248972118892451
+    second: desert_house_exterior_01_3
+  - first:
+      213: 4362335414384075776
+    second: desert_house_exterior_01_4
+  - first:
+      213: -8923747571513700241
+    second: desert_house_exterior_01_5
+  - first:
+      213: -1252707860015811037
+    second: desert_house_exterior_01_6
+  - first:
+      213: -975792712482614167
+    second: desert_house_exterior_01_7
+  - first:
+      213: 992721223058868406
+    second: desert_house_exterior_01_8
+  - first:
+      213: 6329951532548756002
+    second: desert_house_exterior_01_9
+  - first:
+      213: -4574715536756600344
+    second: desert_house_exterior_01_10
+  - first:
+      213: 7936342791681397976
+    second: desert_house_exterior_01_11
+  - first:
+      213: 4907983817332586000
+    second: desert_house_exterior_01_12
+  - first:
+      213: 7067244972724268231
+    second: desert_house_exterior_01_13
+  - first:
+      213: 766861375100402436
+    second: desert_house_exterior_01_14
+  - first:
+      213: 5706252489732051485
+    second: desert_house_exterior_01_15
+  - first:
+      213: -546437756849895599
+    second: desert_house_exterior_01_16
+  - first:
+      213: -6743351940935230672
+    second: desert_house_exterior_01_17
+  - first:
+      213: -7792927596725784574
+    second: desert_house_exterior_01_18
+  - first:
+      213: 3193243401609582258
+    second: desert_house_exterior_01_19
+  - first:
+      213: -2816248062042352778
+    second: desert_house_exterior_01_20
+  - first:
+      213: 8601157420232866803
+    second: desert_house_exterior_01_21
+  - first:
+      213: 81704790215751887
+    second: desert_house_exterior_01_22
+  - first:
+      213: 4707906370455485702
+    second: desert_house_exterior_01_23
+  - first:
+      213: 6516158093951497327
+    second: desert_house_exterior_01_24
+  - first:
+      213: 5423258821609858902
+    second: desert_house_exterior_01_25
+  - first:
+      213: -7215908774669661018
+    second: desert_house_exterior_01_26
+  - first:
+      213: -6020568822865251835
+    second: desert_house_exterior_01_27
+  - first:
+      213: 6752265862571843830
+    second: desert_house_exterior_01_28
+  - first:
+      213: -5735327935940446698
+    second: desert_house_exterior_01_29
+  - first:
+      213: -9057629132322254110
+    second: desert_house_exterior_01_30
+  - first:
+      213: 791607104395429671
+    second: desert_house_exterior_01_31
+  - first:
+      213: 6208423410775885136
+    second: desert_house_exterior_01_32
+  - first:
+      213: 1666890286604591682
+    second: desert_house_exterior_01_33
+  - first:
+      213: -19103447583473162
+    second: desert_house_exterior_01_34
+  - first:
+      213: 2534546472186413795
+    second: desert_house_exterior_01_35
+  - first:
+      213: 8880072874472964817
+    second: desert_house_exterior_01_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: desert_house_exterior_01_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 313
+        width: 370
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ff1b6eb3f720b50800000000000000
+      internalID: 6557943902655086472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 479
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927851db873be07c0800000000000000
+      internalID: -4103144879338191063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 428
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6c7cfb1d05afc00800000000000000
+      internalID: 935148734428727003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 378
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af15df35f45b7c20800000000000000
+      internalID: 3205248972118892451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 378
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004287d52f02a8c30800000000000000
+      internalID: 4362335414384075776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 378
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60dbae1dda782480800000000000000
+      internalID: -8923747571513700241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 378
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326fa64a6dc7d9ee0800000000000000
+      internalID: -1252707860015811037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 321
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9641f0ea2b94572f0800000000000000
+      internalID: -975792712482614167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 325
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b84a6551bad6cd00800000000000000
+      internalID: 992721223058868406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 289
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222120f916188d750800000000000000
+      internalID: 6329951532548756002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 289
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1992b05785380c0800000000000000
+      internalID: -4574715536756600344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4d6e178bd832e60800000000000000
+      internalID: 7936342791681397976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 290
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016797b3749ac1440800000000000000
+      internalID: 4907983817332586000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 288
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc25ebdbd5e31260800000000000000
+      internalID: 7067244972724268231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 256
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb3de8b5074aa00800000000000000
+      internalID: 766861375100402436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 261
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12da29086ea03f40800000000000000
+      internalID: 5706252489732051485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 225
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157c91b51c9aa68f0800000000000000
+      internalID: -546437756849895599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 229
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b5d15332dca62a0800000000000000
+      internalID: -6743351940935230672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 193
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20032d4b3a5f9d390800000000000000
+      internalID: -7792927596725784574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 193
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b69c4a84fda05c20800000000000000
+      internalID: 3193243401609582258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 194
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67355960f4daae8d0800000000000000
+      internalID: -2816248062042352778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 192
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbf1325a137d5770800000000000000
+      internalID: 8601157420232866803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 160
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f145e216422100800000000000000
+      internalID: 81704790215751887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 165
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d3cce76e7d55140800000000000000
+      internalID: 4707906370455485702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 129
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64f34a234b0e6a50800000000000000
+      internalID: 6516158093951497327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 97
+        width: 6
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6572f032a29434b40800000000000000
+      internalID: 5423258821609858902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_26
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 97
+        width: 6
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc0327331fbdb90800000000000000
+      internalID: -7215908774669661018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_27
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 128
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502335fcd84a27ca0800000000000000
+      internalID: -6020568822865251835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 97
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f06797e60ed4bd50800000000000000
+      internalID: 6752265862571843830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_29
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61635eb11a50860b0800000000000000
+      internalID: -5735327935940446698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 64
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2d3b42b46dc4280800000000000000
+      internalID: -9057629132322254110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 64
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7274a23a77a5cfa00800000000000000
+      internalID: 791607104395429671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 64
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055048ec230c82650800000000000000
+      internalID: 6208423410775885136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 64
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242ad9452ebf12710800000000000000
+      internalID: 1666890286604591682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_34
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 130
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f14dc004812cbff0800000000000000
+      internalID: -19103447583473162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_35
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 32
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2046d76948c2320800000000000000
+      internalID: 2534546472186413795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_house_exterior_01_36
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d20b8e0b3b5c3b70800000000000000
+      internalID: 8880072874472964817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      desert_house_exterior_01_0: 6557943902655086472
+      desert_house_exterior_01_1: -4103144879338191063
+      desert_house_exterior_01_10: -4574715536756600344
+      desert_house_exterior_01_11: 7936342791681397976
+      desert_house_exterior_01_12: 4907983817332586000
+      desert_house_exterior_01_13: 7067244972724268231
+      desert_house_exterior_01_14: 766861375100402436
+      desert_house_exterior_01_15: 5706252489732051485
+      desert_house_exterior_01_16: -546437756849895599
+      desert_house_exterior_01_17: -6743351940935230672
+      desert_house_exterior_01_18: -7792927596725784574
+      desert_house_exterior_01_19: 3193243401609582258
+      desert_house_exterior_01_2: 935148734428727003
+      desert_house_exterior_01_20: -2816248062042352778
+      desert_house_exterior_01_21: 8601157420232866803
+      desert_house_exterior_01_22: 81704790215751887
+      desert_house_exterior_01_23: 4707906370455485702
+      desert_house_exterior_01_24: 6516158093951497327
+      desert_house_exterior_01_25: 5423258821609858902
+      desert_house_exterior_01_26: -7215908774669661018
+      desert_house_exterior_01_27: -6020568822865251835
+      desert_house_exterior_01_28: 6752265862571843830
+      desert_house_exterior_01_29: -5735327935940446698
+      desert_house_exterior_01_3: 3205248972118892451
+      desert_house_exterior_01_30: -9057629132322254110
+      desert_house_exterior_01_31: 791607104395429671
+      desert_house_exterior_01_32: 6208423410775885136
+      desert_house_exterior_01_33: 1666890286604591682
+      desert_house_exterior_01_34: -19103447583473162
+      desert_house_exterior_01_35: 2534546472186413795
+      desert_house_exterior_01_36: 8880072874472964817
+      desert_house_exterior_01_4: 4362335414384075776
+      desert_house_exterior_01_5: -8923747571513700241
+      desert_house_exterior_01_6: -1252707860015811037
+      desert_house_exterior_01_7: -975792712482614167
+      desert_house_exterior_01_8: 992721223058868406
+      desert_house_exterior_01_9: 6329951532548756002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

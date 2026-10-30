@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: chupacabras_idle
+  m_Name: Chupacabras_Idle
   serializedVersion: 8
   m_Legacy: 0
   m_Compressed: 0
@@ -22,8 +22,12 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: -8619347532703550189, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
-    - time: 0.18333334
+    - time: 0.3
+      value: {fileID: -788482304541895070, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
+    - time: 0.51666665
       value: {fileID: -8619347532703550189, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
+    - time: 0.81666666
+      value: {fileID: -788482304541895070, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -48,13 +52,15 @@ AnimationClip:
       metaData: 0
     pptrCurveMapping:
     - {fileID: -8619347532703550189, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
+    - {fileID: -788482304541895070, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
     - {fileID: -8619347532703550189, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
+    - {fileID: -788482304541895070, guid: b663032fa8b64aa4c8a8dc6bee7cf550, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.2
+    m_StopTime: 0.8333333
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
