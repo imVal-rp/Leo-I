@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 52954e63c9344c9499c3fc9e9fc332c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6703955936780985680
+    second: leo_sheet_nuevo_0
+  - first:
+      213: -7418610701777275097
+    second: leo_sheet_nuevo_1
+  - first:
+      213: -545653722684839372
+    second: leo_sheet_nuevo_2
+  - first:
+      213: 422111992538311773
+    second: leo_sheet_nuevo_3
+  - first:
+      213: 6846183773638710820
+    second: leo_sheet_nuevo_4
+  - first:
+      213: 8900085085836033791
+    second: leo_sheet_nuevo_5
+  - first:
+      213: 6582458658144091896
+    second: leo_sheet_nuevo_6
+  - first:
+      213: 3796699555585002372
+    second: leo_sheet_nuevo_7
+  - first:
+      213: 1803522910560699658
+    second: leo_sheet_nuevo_8
+  - first:
+      213: -461796205743730489
+    second: leo_sheet_nuevo_9
+  - first:
+      213: -8216652570931680320
+    second: leo_sheet_nuevo_10
+  - first:
+      213: 5711933896988429536
+    second: leo_sheet_nuevo_11
+  - first:
+      213: 5171610092499076581
+    second: leo_sheet_nuevo_12
+  - first:
+      213: -2141071537847721462
+    second: leo_sheet_nuevo_13
+  - first:
+      213: 1351496190876592094
+    second: leo_sheet_nuevo_14
+  - first:
+      213: 5234786995116791487
+    second: leo_sheet_nuevo_15
+  - first:
+      213: 382113717911064570
+    second: leo_sheet_nuevo_16
+  - first:
+      213: 5150339730118520302
+    second: leo_sheet_nuevo_17
+  - first:
+      213: 2553069007940176558
+    second: leo_sheet_nuevo_18
+  - first:
+      213: -7273735474600140302
+    second: leo_sheet_nuevo_19
+  - first:
+      213: 6868189689198792139
+    second: leo_sheet_nuevo_20
+  - first:
+      213: 957046296447539940
+    second: leo_sheet_nuevo_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 678
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba5c463893c6f2a0800000000000000
+      internalID: -6703955936780985680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 678
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72777a94fdccb0990800000000000000
+      internalID: -7418610701777275097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 566
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a200984d27d68f0800000000000000
+      internalID: -545653722684839372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 566
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cadaaee94abd500800000000000000
+      internalID: 422111992538311773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 566
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42657c69ed7820f50800000000000000
+      internalID: 6846183773638710820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 566
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe320c1b34738b70800000000000000
+      internalID: 8900085085836033791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 454
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe7f533647995b50800000000000000
+      internalID: 6582458658144091896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 454
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b0789412690b430800000000000000
+      internalID: 3796699555585002372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 454
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05cf3c1886670910800000000000000
+      internalID: 1803522910560699658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 454
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0950e2cce5799f0800000000000000
+      internalID: -461796205743730489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 339
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb21da350698fd80800000000000000
+      internalID: -8216652570931680320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 230
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec028ebd9dd44f40800000000000000
+      internalID: 5711933896988429536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 230
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e58b309aff35c740800000000000000
+      internalID: 5171610092499076581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 230
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0223ebb7c26942e0800000000000000
+      internalID: -2141071537847721462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 230
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed72e7400aa71c210800000000000000
+      internalID: 1351496190876592094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 118
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb655c67903b5a840800000000000000
+      internalID: 5234786995116791487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 18
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedab4662bea97740800000000000000
+      internalID: 5150339730118520302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa45596cb25e6320800000000000000
+      internalID: 2553069007940176558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f12d4eaf108e0b90800000000000000
+      internalID: -7273735474600140302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sheet_nuevo_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdc1b21226b05f50800000000000000
+      internalID: 6868189689198792139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e3cfbb331d0dbac43a5add959af85dfb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leo_sheet_nuevo_0: -6703955936780985680
+      leo_sheet_nuevo_1: -7418610701777275097
+      leo_sheet_nuevo_10: -8216652570931680320
+      leo_sheet_nuevo_11: 5711933896988429536
+      leo_sheet_nuevo_12: 5171610092499076581
+      leo_sheet_nuevo_13: -2141071537847721462
+      leo_sheet_nuevo_14: 1351496190876592094
+      leo_sheet_nuevo_15: 5234786995116791487
+      leo_sheet_nuevo_16: 382113717911064570
+      leo_sheet_nuevo_17: 5150339730118520302
+      leo_sheet_nuevo_18: 2553069007940176558
+      leo_sheet_nuevo_19: -7273735474600140302
+      leo_sheet_nuevo_2: -545653722684839372
+      leo_sheet_nuevo_20: 6868189689198792139
+      leo_sheet_nuevo_21: 957046296447539940
+      leo_sheet_nuevo_3: 422111992538311773
+      leo_sheet_nuevo_4: 6846183773638710820
+      leo_sheet_nuevo_5: 8900085085836033791
+      leo_sheet_nuevo_6: 6582458658144091896
+      leo_sheet_nuevo_7: 3796699555585002372
+      leo_sheet_nuevo_8: 1803522910560699658
+      leo_sheet_nuevo_9: -461796205743730489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
