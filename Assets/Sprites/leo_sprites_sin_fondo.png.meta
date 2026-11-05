@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 2c6e07eae8e715e4fb86cbb05dccd5cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8887242297346353836
+    second: leo_sprites_sin_fondo_0
+  - first:
+      213: 5660899648540304948
+    second: leo_sprites_sin_fondo_1
+  - first:
+      213: 3263071337340123690
+    second: leo_sprites_sin_fondo_2
+  - first:
+      213: 2308995844484621834
+    second: leo_sprites_sin_fondo_3
+  - first:
+      213: -6156165496165917831
+    second: leo_sprites_sin_fondo_4
+  - first:
+      213: -5647054264421872599
+    second: leo_sprites_sin_fondo_5
+  - first:
+      213: 3309967451359571819
+    second: leo_sprites_sin_fondo_6
+  - first:
+      213: -1886052539808065217
+    second: leo_sprites_sin_fondo_7
+  - first:
+      213: 4949730963147629673
+    second: leo_sprites_sin_fondo_8
+  - first:
+      213: -2877285937058139546
+    second: leo_sprites_sin_fondo_9
+  - first:
+      213: 8204201078001927847
+    second: leo_sprites_sin_fondo_10
+  - first:
+      213: 8413322807246937156
+    second: leo_sprites_sin_fondo_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1864
+        width: 269
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caae72668c3d55b70800000000000000
+      internalID: 8887242297346353836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1878
+        width: 318
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436e064dc3e8f8e40800000000000000
+      internalID: 5660899648540304948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_2
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1884
+        width: 361
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2abae2c712c84d20800000000000000
+      internalID: 3263071337340123690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1303
+        width: 258
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06eb5aac733b0020800000000000000
+      internalID: 2308995844484621834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_4
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1306
+        width: 343
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b93861918e09aa0800000000000000
+      internalID: -6156165496165917831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_5
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1304
+        width: 277
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c87cdd012a1a1b0800000000000000
+      internalID: -5647054264421872599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 658
+        width: 235
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f646c2cdd5fed20800000000000000
+      internalID: 3309967451359571819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 658
+        width: 297
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f395401353563d5e0800000000000000
+      internalID: -1886052539808065217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_8
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 658
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964aa20161af0b440800000000000000
+      internalID: 4949730963147629673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 98
+        width: 220
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6623c6c4fa3d118d0800000000000000
+      internalID: -2877285937058139546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 98
+        width: 256
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a68e28a96d2bd170800000000000000
+      internalID: 8204201078001927847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leo_sprites_sin_fondo_11
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 96
+        width: 282
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c55aa748022c470800000000000000
+      internalID: 8413322807246937156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e19e78cf549dd4b47b0e18864089d0d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leo_sprites_sin_fondo_0: 8887242297346353836
+      leo_sprites_sin_fondo_1: 5660899648540304948
+      leo_sprites_sin_fondo_10: 8204201078001927847
+      leo_sprites_sin_fondo_11: 8413322807246937156
+      leo_sprites_sin_fondo_2: 3263071337340123690
+      leo_sprites_sin_fondo_3: 2308995844484621834
+      leo_sprites_sin_fondo_4: -6156165496165917831
+      leo_sprites_sin_fondo_5: -5647054264421872599
+      leo_sprites_sin_fondo_6: 3309967451359571819
+      leo_sprites_sin_fondo_7: -1886052539808065217
+      leo_sprites_sin_fondo_8: 4949730963147629673
+      leo_sprites_sin_fondo_9: -2877285937058139546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
