@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: f4e7d7f866fa3d340b6518f3f904aa49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6521730483851683531
+    second: fuente_sheet_8f_504x444_separado_0
+  - first:
+      213: -8003349569072090727
+    second: fuente_sheet_8f_504x444_separado_1
+  - first:
+      213: -5445537544520225503
+    second: fuente_sheet_8f_504x444_separado_2
+  - first:
+      213: -2539712202101835880
+    second: fuente_sheet_8f_504x444_separado_3
+  - first:
+      213: -4952152251264588128
+    second: fuente_sheet_8f_504x444_separado_4
+  - first:
+      213: 1759170472179046784
+    second: fuente_sheet_8f_504x444_separado_5
+  - first:
+      213: -1871011103591246036
+    second: fuente_sheet_8f_504x444_separado_6
+  - first:
+      213: -3977533374686206583
+    second: fuente_sheet_8f_504x444_separado_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fuente_sheet_8f_504x444_separado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 505
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6e0da4257d18a50800000000000000
+      internalID: 6521730483851683531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuente_sheet_8f_504x444_separado_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 506
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991be2278f36ee090800000000000000
+      internalID: -8003349569072090727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuente_sheet_8f_504x444_separado_2
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 506
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12da1d774709d64b0800000000000000
+      internalID: -5445537544520225503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuente_sheet_8f_504x444_separado_3
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 506
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897bef9453121ccd0800000000000000
+      internalID: -2539712202101835880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuente_sheet_8f_504x444_separado_4
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 0
+        width: 506
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a629bdd3cb664bb0800000000000000
+      internalID: -4952152251264588128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuente_sheet_8f_504x444_separado_5
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 0
+        width: 506
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08996955934d96810800000000000000
+      internalID: 1759170472179046784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuente_sheet_8f_504x444_separado_6
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 0
+        width: 506
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27d1a77055d806e0800000000000000
+      internalID: -1871011103591246036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuente_sheet_8f_504x444_separado_7
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 0
+        width: 505
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98561973876fcc8c0800000000000000
+      internalID: -3977533374686206583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fuente_sheet_8f_504x444_separado_0: 6521730483851683531
+      fuente_sheet_8f_504x444_separado_1: -8003349569072090727
+      fuente_sheet_8f_504x444_separado_2: -5445537544520225503
+      fuente_sheet_8f_504x444_separado_3: -2539712202101835880
+      fuente_sheet_8f_504x444_separado_4: -4952152251264588128
+      fuente_sheet_8f_504x444_separado_5: 1759170472179046784
+      fuente_sheet_8f_504x444_separado_6: -1871011103591246036
+      fuente_sheet_8f_504x444_separado_7: -3977533374686206583
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -101,7 +101,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -142,12 +142,12 @@ TextureImporter:
       name: LeverAnimation_0
       rect:
         serializedVersion: 2
-        x: 51
+        x: 52
         y: 27
-        width: 157
+        width: 155
         height: 484
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -164,12 +164,12 @@ TextureImporter:
       name: LeverAnimation_1
       rect:
         serializedVersion: 2
-        x: 307
-        y: 5
-        width: 157
-        height: 506
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 308
+        y: 6
+        width: 154
+        height: 505
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -186,12 +186,12 @@ TextureImporter:
       name: LeverAnimation_2
       rect:
         serializedVersion: 2
-        x: 563
+        x: 565
         y: 0
-        width: 157
+        width: 154
         height: 511
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -208,12 +208,12 @@ TextureImporter:
       name: LeverAnimation_3
       rect:
         serializedVersion: 2
-        x: 819
-        y: 5
-        width: 157
-        height: 506
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 820
+        y: 6
+        width: 154
+        height: 505
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -230,12 +230,12 @@ TextureImporter:
       name: LeverAnimation_4
       rect:
         serializedVersion: 2
-        x: 1075
-        y: 18
-        width: 157
-        height: 493
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1077
+        y: 19
+        width: 154
+        height: 492
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,12 +252,12 @@ TextureImporter:
       name: LeverAnimation_5
       rect:
         serializedVersion: 2
-        x: 1331
+        x: 1332
         y: 66
-        width: 157
+        width: 155
         height: 445
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,12 +274,12 @@ TextureImporter:
       name: LeverAnimation_6
       rect:
         serializedVersion: 2
-        x: 1587
-        y: 114
-        width: 157
-        height: 397
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1588
+        y: 115
+        width: 155
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: LeverAnimation_7
       rect:
         serializedVersion: 2
-        x: 1843
-        y: 142
-        width: 157
-        height: 369
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1844
+        y: 143
+        width: 155
+        height: 368
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,12 +318,12 @@ TextureImporter:
       name: LeverAnimation_8
       rect:
         serializedVersion: 2
-        x: 2099
+        x: 2100
         y: 155
-        width: 157
+        width: 154
         height: 356
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,7 +340,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bdfdf4a6650ff914bac6a8d938dd73b1
     internalID: 0
     vertices: []
     indices: 
@@ -348,7 +348,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       LeverAnimation_0: -5080172321076536517
       LeverAnimation_1: -4142856786674752349

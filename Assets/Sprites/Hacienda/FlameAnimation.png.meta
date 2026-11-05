@@ -94,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +108,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 170
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,7 +134,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -172,103 +172,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FlameAnimation_0
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 426
-        width: 60
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0256b278379c77970800000000000000
-      internalID: 8752685898844038432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FlameAnimation_1
-      rect:
-        serializedVersion: 2
-        x: 1604
-        y: 376
-        width: 91
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e75ad619b679b7a0800000000000000
-      internalID: -6360922461359679512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FlameAnimation_2
-      rect:
-        serializedVersion: 2
-        x: 1874
-        y: 456
-        width: 67
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 813f4c292f813c910800000000000000
-      internalID: 1856354901530309400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FlameAnimation_3
-      rect:
-        serializedVersion: 2
-        x: 2627
-        y: 385
-        width: 83
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4f1229d12b816220800000000000000
-      internalID: 2477414247523557196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: FlameAnimation_4
       rect:
         serializedVersion: 2
-        x: 300
-        y: 22
-        width: 148
-        height: 333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 566
+        y: 43
+        width: 135
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -282,37 +194,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlameAnimation_5
-      rect:
-        serializedVersion: 2
-        x: 549
-        y: 21
-        width: 166
-        height: 345
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d2d656724a59779e0800000000000000
-      internalID: -1623664608375640787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: FlameAnimation_6
       rect:
         serializedVersion: 2
-        x: 867
-        y: 355
-        width: 52
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1067
+        y: 42
+        width: 137
+        height: 339
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -326,37 +216,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlameAnimation_7
-      rect:
-        serializedVersion: 2
-        x: 1065
-        y: 22
-        width: 147
-        height: 360
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5546d18dc8d3fd9e0800000000000000
-      internalID: -1594488067935345579
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: FlameAnimation_8
       rect:
         serializedVersion: 2
-        x: 1333
-        y: 333
-        width: 116
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2082
+        y: 40
+        width: 137
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -370,37 +238,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlameAnimation_9
-      rect:
-        serializedVersion: 2
-        x: 2074
-        y: 31
-        width: 154
-        height: 341
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e3133d600088c2c0800000000000000
-      internalID: -4411135095688981530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: FlameAnimation_10
       rect:
         serializedVersion: 2
-        x: 2359
-        y: 267
-        width: 107
-        height: 183
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 313
+        y: 44
+        width: 123
+        height: 365
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -417,12 +263,12 @@ TextureImporter:
       name: FlameAnimation_11
       rect:
         serializedVersion: 2
-        x: 797
-        y: 21
-        width: 175
-        height: 304
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 809
+        y: 42
+        width: 149
+        height: 359
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -439,12 +285,12 @@ TextureImporter:
       name: FlameAnimation_12
       rect:
         serializedVersion: 2
-        x: 1572
-        y: 22
-        width: 141
-        height: 291
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1576
+        y: 37
+        width: 142
+        height: 462
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -458,37 +304,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlameAnimation_13
-      rect:
-        serializedVersion: 2
-        x: 1678
-        y: 303
-        width: 25
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 439019c4509c35ce0800000000000000
-      internalID: -1417568433094981324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: FlameAnimation_14
       rect:
         serializedVersion: 2
-        x: 1822
-        y: 21
-        width: 160
-        height: 295
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1826
+        y: 38
+        width: 140
+        height: 461
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -505,12 +329,12 @@ TextureImporter:
       name: FlameAnimation_15
       rect:
         serializedVersion: 2
-        x: 43
-        y: 23
-        width: 146
-        height: 277
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 62
+        y: 41
+        width: 118
+        height: 438
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -527,12 +351,12 @@ TextureImporter:
       name: FlameAnimation_16
       rect:
         serializedVersion: 2
-        x: 1325
-        y: 22
-        width: 134
-        height: 244
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1332
+        y: 44
+        width: 121
+        height: 439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -549,12 +373,12 @@ TextureImporter:
       name: FlameAnimation_17
       rect:
         serializedVersion: 2
-        x: 2426
-        y: 258
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2428
+        y: 259
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -571,12 +395,12 @@ TextureImporter:
       name: FlameAnimation_18
       rect:
         serializedVersion: 2
-        x: 2590
-        y: 22
-        width: 144
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2597
+        y: 42
+        width: 129
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -593,12 +417,12 @@ TextureImporter:
       name: FlameAnimation_19
       rect:
         serializedVersion: 2
-        x: 2333
-        y: 23
-        width: 154
-        height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2340
+        y: 41
+        width: 139
+        height: 414
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -615,7 +439,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 02831f84c449cab4e96a74c83d337d54
     internalID: 0
     vertices: []
     indices: 
@@ -623,7 +447,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       FlameAnimation_0: 8752685898844038432
       FlameAnimation_1: -6360922461359679512
