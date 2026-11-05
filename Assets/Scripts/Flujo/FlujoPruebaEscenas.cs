@@ -13,12 +13,12 @@ using UnityEngine.SceneManagement;
 public class FlujoPruebaEscenas : MonoBehaviour
 {
     // Los nombres deben coincidir exactamente con los de las escenas.
-    // Cuando confirmemos la escena del patio, la agregaremos aquí.
     private static readonly string[] OrdenEscenas =
     {
         "Menu",
         "pueblo",
         "Bosque",
+        "Hacienda_patio",
         "Hacienda_pasillo",
         "Hacienda_final",
         "Victoria"
