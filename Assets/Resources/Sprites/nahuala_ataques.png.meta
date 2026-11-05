@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 2807c139ffe38c94ab36102c95370013
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1702367672964925106
+    second: nahuala_ataques_0
+  - first:
+      213: -677822336582554555
+    second: nahuala_ataques_1
+  - first:
+      213: -1867929447641040233
+    second: nahuala_ataques_2
+  - first:
+      213: 8728562079018633083
+    second: nahuala_ataques_3
+  - first:
+      213: 3135982953562285222
+    second: nahuala_ataques_4
+  - first:
+      213: -3305098422880424618
+    second: nahuala_ataques_5
+  - first:
+      213: 2650201443612039142
+    second: nahuala_ataques_6
+  - first:
+      213: 3386679411271537131
+    second: nahuala_ataques_7
+  - first:
+      213: 487819969106426184
+    second: nahuala_ataques_8
+  - first:
+      213: 5119923604200361825
+    second: nahuala_ataques_9
+  - first:
+      213: 3018331616343020155
+    second: nahuala_ataques_10
+  - first:
+      213: -222951226837886478
+    second: nahuala_ataques_11
+  - first:
+      213: 1581188299225957938
+    second: nahuala_ataques_12
+  - first:
+      213: -8353190094468991254
+    second: nahuala_ataques_13
+  - first:
+      213: -8041388101656980195
+    second: nahuala_ataques_14
+  - first:
+      213: -3631904992379421541
+    second: nahuala_ataques_15
+  - first:
+      213: -8760781367257724297
+    second: nahuala_ataques_16
+  - first:
+      213: 5960952177179147168
+    second: nahuala_ataques_17
+  - first:
+      213: -3916850807299881115
+    second: nahuala_ataques_18
+  - first:
+      213: -6604601073497262581
+    second: nahuala_ataques_19
+  - first:
+      213: -5000505499843859595
+    second: nahuala_ataques_20
+  - first:
+      213: -4057402366316170315
+    second: nahuala_ataques_21
+  - first:
+      213: 4768774109821636985
+    second: nahuala_ataques_22
+  - first:
+      213: -330126266052727147
+    second: nahuala_ataques_23
+  - first:
+      213: 129712394930769976
+    second: nahuala_ataques_24
+  - first:
+      213: -8487168947571896939
+    second: nahuala_ataques_25
+  - first:
+      213: 4902310992891104692
+    second: nahuala_ataques_26
+  - first:
+      213: 5361300543419597160
+    second: nahuala_ataques_27
+  - first:
+      213: -5202272119987478284
+    second: nahuala_ataques_28
+  - first:
+      213: -3676154231641115717
+    second: nahuala_ataques_29
+  - first:
+      213: -6120137682134041446
+    second: nahuala_ataques_30
+  - first:
+      213: 8469543235841935463
+    second: nahuala_ataques_31
+  - first:
+      213: -4087316413612776036
+    second: nahuala_ataques_32
+  - first:
+      213: -8268233224517873980
+    second: nahuala_ataques_33
+  - first:
+      213: 3900533982626012389
+    second: nahuala_ataques_34
+  - first:
+      213: 4544518619520964190
+    second: nahuala_ataques_35
+  - first:
+      213: -2593405130594532474
+    second: nahuala_ataques_36
+  - first:
+      213: 7260777957090618617
+    second: nahuala_ataques_37
+  - first:
+      213: -936867829920109382
+    second: nahuala_ataques_38
+  - first:
+      213: 8007271567946535769
+    second: nahuala_ataques_39
+  - first:
+      213: 3727214129001140363
+    second: nahuala_ataques_40
+  - first:
+      213: -2893950594062961079
+    second: nahuala_ataques_41
+  - first:
+      213: -1060757746600238212
+    second: nahuala_ataques_42
+  - first:
+      213: 6302212699602001440
+    second: nahuala_ataques_43
+  - first:
+      213: 3162546511924708128
+    second: nahuala_ataques_44
+  - first:
+      213: -693902031055269579
+    second: nahuala_ataques_45
+  - first:
+      213: -5681268473575885429
+    second: nahuala_ataques_46
+  - first:
+      213: -1596212799430917356
+    second: nahuala_ataques_47
+  - first:
+      213: -5202251743161900262
+    second: nahuala_ataques_48
+  - first:
+      213: -1237057476389838097
+    second: nahuala_ataques_49
+  - first:
+      213: -6297440941305857364
+    second: nahuala_ataques_50
+  - first:
+      213: 640579555770867952
+    second: nahuala_ataques_51
+  - first:
+      213: -6961940698427489612
+    second: nahuala_ataques_52
+  - first:
+      213: -2505197710293005781
+    second: nahuala_ataques_53
+  - first:
+      213: 504515166791843359
+    second: nahuala_ataques_54
+  - first:
+      213: -8384086506696355971
+    second: nahuala_ataques_55
+  - first:
+      213: -7169627269501707075
+    second: nahuala_ataques_56
+  - first:
+      213: 7910164087288439634
+    second: nahuala_ataques_57
+  - first:
+      213: 861451187290568622
+    second: nahuala_ataques_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nahuala_ataques_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 719
+        width: 222
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4931d7fe99ff58e0800000000000000
+      internalID: -1702367672964925106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 719
+        width: 382
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a3dd76018c316e0800000000000000
+      internalID: -1867929447641040233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 719
+        width: 431
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4a2c091ef358b20800000000000000
+      internalID: 3135982953562285222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_5
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 718
+        width: 244
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d228cde7ee122d0800000000000000
+      internalID: -3305098422880424618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 322
+        width: 422
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be118fc2bf6effe20800000000000000
+      internalID: 3386679411271537131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_8
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 321
+        width: 445
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8493ee46da515c600800000000000000
+      internalID: 487819969106426184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 322
+        width: 376
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9171a5a0be7ecf0800000000000000
+      internalID: -222951226837886478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_44
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 7
+        width: 422
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0234ce4fb4f93eb20800000000000000
+      internalID: 3162546511924708128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 370
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4130dff7aec19d9e0800000000000000
+      internalID: -1596212799430917356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_50
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 9
+        width: 446
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa767344defa98a0800000000000000
+      internalID: -6297440941305857364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nahuala_ataques_52
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 7
+        width: 169
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b205ea12d7326f90800000000000000
+      internalID: -6961940698427489612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41c23391390f48b41ad9c6908bd1a22c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nahuala_ataques_0: -1702367672964925106
+      nahuala_ataques_1: -677822336582554555
+      nahuala_ataques_10: 3018331616343020155
+      nahuala_ataques_11: -222951226837886478
+      nahuala_ataques_12: 1581188299225957938
+      nahuala_ataques_13: -8353190094468991254
+      nahuala_ataques_14: -8041388101656980195
+      nahuala_ataques_15: -3631904992379421541
+      nahuala_ataques_16: -8760781367257724297
+      nahuala_ataques_17: 5960952177179147168
+      nahuala_ataques_18: -3916850807299881115
+      nahuala_ataques_19: -6604601073497262581
+      nahuala_ataques_2: -1867929447641040233
+      nahuala_ataques_20: -5000505499843859595
+      nahuala_ataques_21: -4057402366316170315
+      nahuala_ataques_22: 4768774109821636985
+      nahuala_ataques_23: -330126266052727147
+      nahuala_ataques_24: 129712394930769976
+      nahuala_ataques_25: -8487168947571896939
+      nahuala_ataques_26: 4902310992891104692
+      nahuala_ataques_27: 5361300543419597160
+      nahuala_ataques_28: -5202272119987478284
+      nahuala_ataques_29: -3676154231641115717
+      nahuala_ataques_3: 8728562079018633083
+      nahuala_ataques_30: -6120137682134041446
+      nahuala_ataques_31: 8469543235841935463
+      nahuala_ataques_32: -4087316413612776036
+      nahuala_ataques_33: -8268233224517873980
+      nahuala_ataques_34: 3900533982626012389
+      nahuala_ataques_35: 4544518619520964190
+      nahuala_ataques_36: -2593405130594532474
+      nahuala_ataques_37: 7260777957090618617
+      nahuala_ataques_38: -936867829920109382
+      nahuala_ataques_39: 8007271567946535769
+      nahuala_ataques_4: 3135982953562285222
+      nahuala_ataques_40: 3727214129001140363
+      nahuala_ataques_41: -2893950594062961079
+      nahuala_ataques_42: -1060757746600238212
+      nahuala_ataques_43: 6302212699602001440
+      nahuala_ataques_44: 3162546511924708128
+      nahuala_ataques_45: -693902031055269579
+      nahuala_ataques_46: -5681268473575885429
+      nahuala_ataques_47: -1596212799430917356
+      nahuala_ataques_48: -5202251743161900262
+      nahuala_ataques_49: -1237057476389838097
+      nahuala_ataques_5: -3305098422880424618
+      nahuala_ataques_50: -6297440941305857364
+      nahuala_ataques_51: 640579555770867952
+      nahuala_ataques_52: -6961940698427489612
+      nahuala_ataques_53: -2505197710293005781
+      nahuala_ataques_54: 504515166791843359
+      nahuala_ataques_55: -8384086506696355971
+      nahuala_ataques_56: -7169627269501707075
+      nahuala_ataques_57: 7910164087288439634
+      nahuala_ataques_58: 861451187290568622
+      nahuala_ataques_6: 2650201443612039142
+      nahuala_ataques_7: 3386679411271537131
+      nahuala_ataques_8: 487819969106426184
+      nahuala_ataques_9: 5119923604200361825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
